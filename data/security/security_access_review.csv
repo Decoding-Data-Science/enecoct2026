@@ -1,0 +1,129 @@
+asset_id,asset_name,Network_Exposure,total_accounts,privileged_accounts,shared_accounts,mfa_enforced,vendor_remote_access,stale_accounts_90d,last_access_review_date,access_risk_flag
+A-001,Pump 001,Restricted,9,3,1,No,Yes,2,2026-01-31,Yes
+A-002,Motor 002,Internal,14,3,0,Yes,No,2,2026-02-16,Yes
+A-003,Valve 003,Internal,6,2,0,Yes,No,1,2026-06-23,No
+A-004,Heat Exchanger 004,Internal,13,0,0,Yes,No,0,2025-08-04,No
+A-005,Fan 005,Restricted,8,4,0,Yes,Yes,0,2026-07-20,No
+A-006,Compressor 006,Internal,8,3,0,Yes,No,2,2025-12-28,Yes
+A-007,Transformer 007,Restricted,4,3,0,Yes,Yes,3,2025-08-03,Yes
+A-008,Filter 008,Internal,9,0,0,Yes,No,3,2026-02-08,Yes
+A-009,Pump 009,Restricted,9,4,0,Yes,No,2,2025-11-29,Yes
+A-010,Motor 010,Restricted,10,2,0,No,Yes,0,2026-06-14,Yes
+A-011,Valve 011,Internal,7,4,0,Yes,No,0,2026-05-25,No
+A-012,Heat Exchanger 012,External,14,2,0,No,Yes,3,2026-06-28,Yes
+A-013,Fan 013,Internal,4,1,0,Yes,No,1,2025-08-26,No
+A-014,Compressor 014,Restricted,9,1,1,Yes,Yes,2,2026-06-16,Yes
+A-015,Transformer 015,Internal,3,1,0,Yes,No,1,2026-04-06,No
+A-016,Filter 016,Restricted,12,0,0,No,No,2,2025-12-21,Yes
+A-017,Pump 017,Restricted,13,1,1,Yes,Yes,2,2026-02-06,Yes
+A-018,Motor 018,Internal,3,3,0,Yes,No,0,2025-08-17,No
+A-019,Valve 019,Internal,13,3,0,Yes,No,1,2026-07-11,No
+A-020,Heat Exchanger 020,Internal,10,3,0,No,No,1,2026-05-06,Yes
+A-021,Fan 021,Internal,4,1,0,Yes,No,0,2026-04-01,No
+A-022,Compressor 022,Internal,5,1,0,Yes,No,1,2025-12-31,No
+A-023,Transformer 023,External,13,2,1,Yes,Yes,1,2025-12-09,Yes
+A-024,Filter 024,Internal,5,1,0,No,No,0,2025-12-16,Yes
+A-025,Pump 025,Restricted,10,2,1,No,Yes,0,2025-08-29,Yes
+A-026,Motor 026,Internal,14,0,1,Yes,No,2,2026-04-07,Yes
+A-027,Valve 027,Internal,6,2,1,Yes,No,1,2026-01-22,Yes
+A-028,Heat Exchanger 028,Internal,11,2,0,Yes,No,0,2026-02-27,No
+A-029,Fan 029,Internal,3,1,0,No,No,3,2025-10-04,Yes
+A-030,Compressor 030,Restricted,7,3,0,No,No,0,2026-03-29,Yes
+A-031,Transformer 031,Restricted,5,4,0,Yes,Yes,2,2025-11-08,Yes
+A-032,Filter 032,Restricted,5,3,1,No,No,0,2026-06-29,Yes
+A-033,Pump 033,Internal,6,1,0,Yes,No,0,2025-12-14,No
+A-034,Motor 034,Internal,3,3,1,Yes,No,0,2025-11-22,Yes
+A-035,Valve 035,Internal,8,1,0,Yes,No,2,2026-06-29,Yes
+A-036,Heat Exchanger 036,Internal,5,0,0,Yes,No,1,2026-06-04,No
+A-037,Fan 037,Internal,3,3,0,Yes,No,1,2025-12-27,No
+A-038,Compressor 038,Restricted,12,3,0,No,Yes,2,2025-11-05,Yes
+A-039,Transformer 039,Restricted,13,3,0,No,Yes,2,2026-07-21,Yes
+A-040,Filter 040,External,10,4,1,Yes,Yes,1,2026-04-11,Yes
+A-041,Pump 041,Internal,5,2,0,Yes,No,1,2026-01-24,No
+A-042,Motor 042,External,3,2,0,Yes,No,0,2026-02-13,No
+A-043,Valve 043,Internal,3,0,0,Yes,No,3,2026-02-23,Yes
+A-044,Heat Exchanger 044,External,6,2,0,Yes,Yes,2,2026-04-10,Yes
+A-045,Fan 045,Internal,10,1,0,Yes,No,0,2025-10-05,No
+A-046,Compressor 046,Internal,10,0,0,Yes,No,1,2026-06-13,No
+A-047,Transformer 047,Restricted,4,2,0,Yes,No,1,2025-12-13,No
+A-048,Filter 048,Internal,8,0,1,Yes,No,0,2025-07-11,Yes
+A-049,Pump 049,External,9,4,0,Yes,No,3,2026-01-13,Yes
+A-050,Motor 050,Internal,6,1,0,Yes,Yes,3,2026-07-26,Yes
+A-051,Valve 051,Internal,5,3,0,Yes,No,2,2025-09-03,Yes
+A-052,Heat Exchanger 052,Internal,9,2,1,Yes,No,1,2026-07-23,Yes
+A-053,Fan 053,Internal,4,4,1,No,No,0,2025-07-07,Yes
+A-054,Compressor 054,Internal,6,0,0,Yes,No,3,2026-06-16,Yes
+A-055,Transformer 055,Restricted,6,0,0,Yes,No,3,2025-07-04,Yes
+A-056,Filter 056,Internal,4,3,0,Yes,No,1,2026-04-24,No
+A-057,Pump 057,Restricted,12,1,0,Yes,No,1,2026-08-01,No
+A-058,Motor 058,Internal,7,0,0,Yes,No,0,2025-12-22,No
+A-059,Valve 059,Internal,6,4,1,Yes,No,1,2026-03-17,Yes
+A-060,Heat Exchanger 060,Internal,8,2,0,Yes,Yes,2,2025-10-07,Yes
+A-061,Fan 061,Internal,14,1,0,Yes,No,0,2026-08-04,No
+A-062,Compressor 062,Internal,8,0,0,Yes,Yes,3,2026-03-14,Yes
+A-063,Transformer 063,Internal,7,3,0,Yes,No,2,2026-07-03,Yes
+A-064,Filter 064,Internal,13,2,0,Yes,No,3,2025-11-11,Yes
+A-065,Pump 065,Restricted,14,0,0,No,Yes,1,2025-12-08,Yes
+A-066,Motor 066,Internal,7,2,0,Yes,No,1,2025-07-25,No
+A-067,Valve 067,Internal,9,0,1,No,No,3,2025-09-19,Yes
+A-068,Heat Exchanger 068,Internal,12,1,0,No,No,1,2025-07-24,Yes
+A-069,Fan 069,Internal,10,4,0,No,No,3,2025-10-17,Yes
+A-070,Compressor 070,Internal,6,2,0,Yes,No,1,2026-05-11,No
+A-071,Transformer 071,Internal,13,4,0,Yes,No,1,2026-05-20,No
+A-072,Filter 072,Internal,12,0,0,Yes,No,0,2026-03-03,No
+A-073,Pump 073,Internal,8,1,0,Yes,No,2,2025-11-21,Yes
+A-074,Motor 074,Internal,13,0,0,Yes,No,0,2026-08-04,No
+A-075,Valve 075,Internal,14,2,0,Yes,No,0,2025-11-02,No
+A-076,Heat Exchanger 076,Internal,5,2,0,Yes,No,3,2025-10-12,Yes
+A-077,Fan 077,Restricted,13,2,0,Yes,Yes,0,2026-03-03,No
+A-078,Compressor 078,Restricted,13,0,0,Yes,No,3,2025-07-31,Yes
+A-079,Transformer 079,Internal,10,3,0,Yes,No,3,2025-07-22,Yes
+A-080,Filter 080,External,5,0,0,Yes,Yes,0,2026-03-24,No
+A-081,Pump 081,Restricted,8,1,0,Yes,No,0,2026-04-16,No
+A-082,Motor 082,Internal,14,1,0,Yes,No,3,2026-01-08,Yes
+A-083,Valve 083,Internal,14,4,0,Yes,No,1,2025-12-30,No
+A-084,Heat Exchanger 084,Internal,7,0,0,Yes,No,0,2026-03-11,No
+A-085,Fan 085,Internal,10,3,0,Yes,No,1,2025-09-28,No
+A-086,Compressor 086,Restricted,3,1,0,Yes,Yes,0,2026-04-25,No
+A-087,Transformer 087,Internal,3,3,0,Yes,No,1,2026-03-13,No
+A-088,Filter 088,Internal,14,1,0,Yes,No,1,2026-07-08,No
+A-089,Pump 089,Internal,11,3,0,Yes,No,1,2026-01-09,No
+A-090,Motor 090,Internal,7,1,1,Yes,No,1,2025-11-02,Yes
+A-091,Valve 091,Internal,6,4,0,No,No,0,2026-07-08,Yes
+A-092,Heat Exchanger 092,Internal,11,4,0,No,No,0,2025-12-30,Yes
+A-093,Fan 093,Internal,7,0,0,Yes,No,3,2025-11-05,Yes
+A-094,Compressor 094,Restricted,12,2,1,Yes,Yes,3,2026-01-06,Yes
+A-095,Transformer 095,Internal,10,1,0,Yes,Yes,1,2025-07-08,No
+A-096,Filter 096,Internal,4,0,0,No,No,0,2026-03-14,No
+A-097,Pump 097,Internal,7,4,0,Yes,No,0,2026-06-18,No
+A-098,Motor 098,Restricted,14,1,0,Yes,No,0,2026-02-28,No
+A-099,Valve 099,Restricted,8,2,1,Yes,Yes,1,2025-08-05,Yes
+A-100,Heat Exchanger 100,Internal,8,3,1,Yes,No,0,2026-02-22,Yes
+A-101,Fan 101,Internal,3,2,0,Yes,No,1,2025-07-07,No
+A-102,Compressor 102,Internal,10,4,0,Yes,No,0,2026-01-11,No
+A-103,Transformer 103,Restricted,3,2,0,Yes,Yes,3,2026-02-23,Yes
+A-104,Filter 104,Internal,13,0,0,No,No,1,2026-04-01,No
+A-105,Pump 105,Internal,11,4,0,Yes,No,2,2026-01-13,Yes
+A-106,Motor 106,External,12,2,0,Yes,No,0,2026-06-05,No
+A-107,Valve 107,Internal,4,2,0,Yes,No,3,2026-04-04,Yes
+A-108,Heat Exchanger 108,Internal,6,0,0,Yes,Yes,3,2025-07-30,Yes
+A-109,Fan 109,Restricted,9,1,0,Yes,Yes,1,2026-03-09,No
+A-110,Compressor 110,External,13,1,0,Yes,Yes,0,2026-01-21,No
+A-111,Transformer 111,Internal,12,0,0,Yes,No,3,2025-10-11,Yes
+A-112,Filter 112,External,10,2,0,Yes,Yes,2,2025-08-17,Yes
+A-113,Pump 113,Internal,9,2,0,Yes,No,2,2026-08-04,Yes
+A-114,Motor 114,Internal,14,4,0,Yes,No,1,2026-03-16,No
+A-115,Valve 115,Internal,10,1,1,Yes,Yes,1,2026-01-20,Yes
+A-116,Heat Exchanger 116,Internal,14,4,0,Yes,No,0,2025-07-18,No
+A-117,Fan 117,Internal,12,3,0,Yes,No,0,2026-01-08,No
+A-118,Compressor 118,Internal,5,4,1,Yes,No,0,2026-01-25,Yes
+A-119,Transformer 119,Restricted,13,2,0,Yes,Yes,1,2025-12-02,No
+A-120,Filter 120,Internal,8,0,0,Yes,No,0,2025-12-10,No
+A-121,Pump 121,Restricted,4,0,1,Yes,Yes,3,2026-01-14,Yes
+A-122,Motor 122,Restricted,7,4,0,Yes,No,0,2026-03-31,No
+A-123,Valve 123,Internal,14,4,0,Yes,No,0,2026-01-30,No
+A-124,Heat Exchanger 124,Internal,14,3,0,Yes,No,1,2026-07-16,No
+A-125,Fan 125,Internal,5,3,1,Yes,No,1,2025-08-29,Yes
+A-126,Compressor 126,Internal,5,3,0,Yes,No,1,2025-08-19,No
+A-127,Transformer 127,Internal,10,1,0,Yes,No,0,2025-10-18,No
+A-128,Filter 128,Internal,12,2,0,No,No,0,2026-07-02,Yes

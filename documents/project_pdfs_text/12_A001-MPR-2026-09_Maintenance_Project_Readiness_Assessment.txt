@@ -1,0 +1,81 @@
+NORTHSTAR PROCESS FACILITY                                                                       SYNTHETIC TRAINING CORPUS
+
+
+
+
+ A001-MPR-2026-09 / APPROVED
+
+
+ A-001 Maintenance Project Readiness
+ Assessment
+ A-001 | Cooling Water Pump | Enterprise Asset Reliability Training Scenario
+  Document ID                    A001-MPR-2026-09                   Version                           1.0
+  Status                         APPROVED                           Effective / Issue Date            2026-09-08
+  Owner                          Maintenance Planning Office        Asset                             A-001
+  Location                       Utilities Area - Bay 3             Data Class                        Synthetic / Training
+
+
+ TRAINING NOTICE: This fictional document is designed only for AI/RAG, analytics and governance
+ training. It is not an engineering instruction and must not be used on real equipment.
+
+
+ 1. Purpose
+ This readiness assessment evaluates whether the fictional A-001 review project has sufficient planning inputs to
+ move from investigation into a defined maintenance scope. It does not approve a technical intervention.
+
+ 2. Readiness Dimensions
+  Dimension                      Status                   Observation
+  Technical evidence             PARTIAL                  Condition and inspection evidence exists; cause remains unconfirmed
+  Approved procedure             READY                    A001-PROC-INS-001-V2 identified as current guidance
+  Work-order definition          PARTIAL                  WO-2026-0817 remains open and scope requires review
+  Materials / spares             PARTIAL                  Vendor availability requires confirmation
+  Resource planning              READY                    Training planner capacity identified
+  Financial estimate             PARTIAL                  Planning estimate exists; no budget approval implied
+  Data / records                 READY                    Core sensor and document sources are available
+
+
+ 3. Readiness Gate
+ The project should remain in review status until the open work-order scope, vendor support availability and
+ evidence gaps are reconciled. A readiness score or summary should not be interpreted as engineering
+ authorization.
+
+ 4. Dependency Map
+  Dependency                                          Owner                                       Needed Before
+  Inspection evidence review                          Reliability                                 Scope finalization
+  Spare / service availability                        Vendor Management                           Scheduling
+  Planning cost estimate                              Finance / Maintenance                       Funding discussion
+  Data-quality confirmation                           IT / Data                                   Evidence sign-off
+
+
+
+
+A001-MPR-2026-09 | APPROVED | Synthetic training document - not for operational use
+                                                                                                                             Page 1
+NORTHSTAR PROCESS FACILITY                                                            SYNTHETIC TRAINING CORPUS
+
+
+
+
+ 5. Decision Log
+  Date                      Decision / Observation                                           Status
+  2026-09-05                Detailed inspection report issued                                Complete
+  2026-09-07                Project risk assessment approved                                 Complete
+  2026-09-08                Readiness reviewed; scope not yet final                          Open
+
+
+ 6. Recommended Next Review Inputs
+  • Confirmed work-order scope and owner.
+  • Vendor support and spares readiness.
+  • Updated cost range and assumptions.
+  • Documented data-quality check for the vibration trend.
+
+ 7. Training Note
+ This document is useful for RAG questions such as: 'Is the project ready?', 'What dependencies are still open?',
+ and 'Which evidence is still missing before planning can proceed?'
+
+
+
+
+A001-MPR-2026-09 | APPROVED | Synthetic training document - not for operational use
+                                                                                                             Page 2
+

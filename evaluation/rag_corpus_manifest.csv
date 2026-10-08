@@ -1,0 +1,10 @@
+index,filename,document_id,title,document_type,status,version,date,asset_id,scope
+0,01_REL-POL-001_Enterprise_Asset_Reliability_and_Escalation_Policy.pdf,REL-POL-001,Enterprise Asset Reliability and Escalation Policy,Enterprise Policy,APPROVED,2.1,2026-07-01,ALL,Enterprise
+1,02_A001-OPS-001_Operating_and_Usage_Guide.pdf,A001-OPS-001,A-001 Operating and Usage Guide,Operating Guide,APPROVED,1.4,2026-05-15,A-001,Asset-specific
+2,03_A001-PROC-INS-001-V1_Superseded_Inspection_Procedure.pdf,A001-PROC-INS-001-V1,A-001 Condition Inspection Procedure - Historical Version,Inspection Procedure,SUPERSEDED,1.0,2025-03-01,A-001,Asset-specific
+3,04_A001-PROC-INS-001-V2_Approved_Inspection_and_PM_Procedure.pdf,A001-PROC-INS-001-V2,A-001 Condition Inspection and Preventive Maintenance Procedure,Inspection Procedure,APPROVED,2.0,2026-02-01,A-001,Asset-specific
+4,05_A001-PROC-INS-001-V3D_Draft_Procedure.pdf,A001-PROC-INS-001-V3D,A-001 Condition Inspection Procedure - Draft Revision,Inspection Procedure,DRAFT,3.0-draft,2026-08-20,A-001,Asset-specific
+5,06_A001-TSG-001_Troubleshooting_and_Diagnostic_Guide.pdf,A001-TSG-001,A-001 Troubleshooting and Diagnostic Guide,Troubleshooting Guide,APPROVED,1.2,2026-04-10,A-001,Asset-specific
+6,07_A001-CMR-2026-08_Condition_Monitoring_Report.pdf,A001-CMR-2026-08,A-001 Monthly Condition Monitoring Report - August 2026,Condition Monitoring Report,APPROVED,1.0,2026-08-25,A-001,Asset-specific
+7,08_WO-2026-0817_A001_Inspection_Work_Order.pdf,WO-2026-0817,Inspection Work Order - A-001 Elevated Vibration Review,Work Order,OPEN,1.0,2026-08-21,A-001,Asset-specific
+8,09_CR-2026-0819_A001_Field_Condition_Report.pdf,CR-2026-0819-A001,Field Condition Report - A-001 Observation,Field Condition Report,APPROVED,1.0,2026-08-19,A-001,Asset-specific

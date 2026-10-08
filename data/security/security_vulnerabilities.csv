@@ -1,0 +1,175 @@
+vulnerability_id,asset_id,title,category,cvss_score,severity,found_date,due_date,status,closed_date,owner_employee_id,sla_days,overdue,days_overdue
+SYN-2026-0001,A-002,Remote vendor session without recording,Access,5.4,Medium,2026-07-31,2026-08-30,In remediation,,E-161,30,No,0
+SYN-2026-0002,A-002,Engineering port reachable from wrong network segment,Network,6.5,Medium,2026-06-16,2026-07-16,Accepted risk,,E-183,30,No,0
+SYN-2026-0003,A-002,Unsigned firmware update path,Firmware,6.3,Medium,2026-07-31,2026-08-30,Accepted risk,,E-238,30,No,0
+SYN-2026-0004,A-003,Weak TLS configuration on historian link,Crypto,4.5,Medium,2026-08-09,2026-09-08,Accepted risk,,E-073,30,No,0
+SYN-2026-0005,A-003,Remote vendor session without recording,Access,4.2,Medium,2026-08-16,2026-09-15,Accepted risk,,E-049,30,No,0
+SYN-2026-0006,A-005,Weak TLS configuration on historian link,Crypto,4.7,Medium,2026-07-31,2026-08-30,In remediation,,E-214,30,No,0
+SYN-2026-0007,A-006,Remote vendor session without recording,Access,5.7,Medium,2026-03-18,2026-04-17,Accepted risk,,E-176,30,No,0
+SYN-2026-0008,A-006,Unsupported operating system on engineering workstation,Platform,7.2,High,2026-08-16,2026-08-30,Closed,2026-09-13,E-204,14,No,0
+SYN-2026-0009,A-006,Unsupported operating system on engineering workstation,Platform,7.9,High,2026-07-16,2026-07-30,Closed,2026-08-09,E-082,14,No,0
+SYN-2026-0010,A-007,Missing network segmentation rule for monitoring traffic,Network,5.8,Medium,2026-08-16,2026-09-15,Open,,E-083,30,No,0
+SYN-2026-0011,A-008,Engineering port reachable from wrong network segment,Network,6.7,Medium,2026-07-16,2026-08-15,Open,,E-164,30,Yes,10
+SYN-2026-0012,A-008,Engineering port reachable from wrong network segment,Network,6.3,Medium,2026-08-21,2026-09-20,Open,,E-196,30,No,0
+SYN-2026-0013,A-009,Engineering port reachable from wrong network segment,Network,6.8,Medium,2026-08-09,2026-09-08,Open,,E-119,30,No,0
+SYN-2026-0014,A-010,Unnecessary service enabled on controller,Hardening,5.1,Medium,2026-05-07,2026-06-06,In remediation,,E-018,30,Yes,80
+SYN-2026-0015,A-010,Unsupported operating system on engineering workstation,Platform,8.6,High,2026-08-21,2026-09-04,Open,,E-039,14,No,0
+SYN-2026-0016,A-010,Default or vendor-set credentials on local HMI,Credentials,9.0,Critical,2026-07-16,2026-07-23,In remediation,,E-012,7,Yes,33
+SYN-2026-0017,A-011,Missing network segmentation rule for monitoring traffic,Network,5.5,Medium,2026-03-18,2026-04-17,Open,,E-092,30,Yes,130
+SYN-2026-0018,A-012,Engineering port reachable from wrong network segment,Network,7.3,High,2026-05-07,2026-05-21,Accepted risk,,E-218,14,No,0
+SYN-2026-0019,A-012,Missing network segmentation rule for monitoring traffic,Network,6.2,Medium,2026-08-21,2026-09-20,Accepted risk,,E-118,30,No,0
+SYN-2026-0020,A-012,Unnecessary service enabled on controller,Hardening,4.5,Medium,2026-07-16,2026-08-15,Open,,E-101,30,Yes,10
+SYN-2026-0021,A-013,Weak TLS configuration on historian link,Crypto,4.4,Medium,2026-07-31,2026-08-30,Open,,E-006,30,No,0
+SYN-2026-0022,A-016,Unsupported operating system on engineering workstation,Platform,7.1,High,2026-03-18,2026-04-01,Closed,2026-03-28,E-134,14,No,0
+SYN-2026-0023,A-016,Unnecessary service enabled on controller,Hardening,5.8,Medium,2026-08-09,2026-09-08,Closed,2026-09-11,E-216,30,No,0
+SYN-2026-0024,A-017,Unsupported operating system on engineering workstation,Platform,6.8,Medium,2026-07-16,2026-08-15,Open,,E-163,30,Yes,10
+SYN-2026-0025,A-017,Time synchronisation not authenticated,Network,3.8,Low,2026-08-21,2026-11-19,In remediation,,E-107,90,No,0
+SYN-2026-0026,A-018,Unsupported operating system on engineering workstation,Platform,6.6,Medium,2026-03-18,2026-04-17,Open,,E-022,30,Yes,130
+SYN-2026-0027,A-018,Unsupported operating system on engineering workstation,Platform,8.3,High,2026-06-16,2026-06-30,Open,,E-033,14,Yes,56
+SYN-2026-0028,A-020,Engineering port reachable from wrong network segment,Network,8.0,High,2026-08-16,2026-08-30,Accepted risk,,E-137,14,No,0
+SYN-2026-0029,A-020,Missing network segmentation rule for monitoring traffic,Network,6.3,Medium,2026-08-09,2026-09-08,Closed,2026-09-05,E-160,30,No,0
+SYN-2026-0030,A-021,Engineering port reachable from wrong network segment,Network,7.5,High,2026-06-16,2026-06-30,Closed,2026-06-27,E-208,14,No,0
+SYN-2026-0031,A-022,Unsupported operating system on engineering workstation,Platform,8.8,High,2026-08-16,2026-08-30,Closed,2026-08-24,E-226,14,No,0
+SYN-2026-0032,A-023,Unsupported operating system on engineering workstation,Platform,7.4,High,2026-03-18,2026-04-01,Closed,2026-04-06,E-068,14,No,0
+SYN-2026-0033,A-023,Default or vendor-set credentials on local HMI,Credentials,8.2,High,2026-08-21,2026-09-04,Open,,E-165,14,No,0
+SYN-2026-0034,A-024,Unsigned firmware update path,Firmware,6.4,Medium,2026-07-31,2026-08-30,Closed,2026-08-12,E-056,30,No,0
+SYN-2026-0035,A-024,Engineering port reachable from wrong network segment,Network,8.2,High,2026-07-31,2026-08-14,Accepted risk,,E-200,14,No,0
+SYN-2026-0036,A-025,Unsigned firmware update path,Firmware,6.5,Medium,2026-07-31,2026-08-30,Accepted risk,,E-205,30,No,0
+SYN-2026-0037,A-026,Remote vendor session without recording,Access,5.1,Medium,2026-07-16,2026-08-15,In remediation,,E-036,30,Yes,10
+SYN-2026-0038,A-026,Missing network segmentation rule for monitoring traffic,Network,5.4,Medium,2026-03-18,2026-04-17,Closed,2026-03-30,E-019,30,No,0
+SYN-2026-0039,A-027,Weak TLS configuration on historian link,Crypto,4.5,Medium,2026-05-07,2026-06-06,Open,,E-036,30,Yes,80
+SYN-2026-0040,A-029,Engineering port reachable from wrong network segment,Network,6.8,Medium,2026-08-21,2026-09-20,Accepted risk,,E-221,30,No,0
+SYN-2026-0041,A-029,Time synchronisation not authenticated,Network,3.7,Low,2026-06-16,2026-09-14,Open,,E-020,90,No,0
+SYN-2026-0042,A-030,Unnecessary service enabled on controller,Hardening,6.3,Medium,2026-06-16,2026-07-16,Open,,E-017,30,Yes,40
+SYN-2026-0043,A-030,Unnecessary service enabled on controller,Hardening,6.0,Medium,2026-08-16,2026-09-15,Open,,E-060,30,No,0
+SYN-2026-0044,A-030,Engineering port reachable from wrong network segment,Network,8.1,High,2026-08-16,2026-08-30,Open,,E-227,14,No,0
+SYN-2026-0045,A-031,Weak TLS configuration on historian link,Crypto,4.6,Medium,2026-03-18,2026-04-17,Open,,E-002,30,Yes,130
+SYN-2026-0046,A-032,Time synchronisation not authenticated,Network,4.3,Medium,2026-07-31,2026-08-30,In remediation,,E-136,30,No,0
+SYN-2026-0047,A-034,Default or vendor-set credentials on local HMI,Credentials,7.2,High,2026-07-16,2026-07-30,In remediation,,E-108,14,Yes,26
+SYN-2026-0048,A-035,Unsupported operating system on engineering workstation,Platform,7.3,High,2026-03-18,2026-04-01,Closed,2026-04-08,E-217,14,No,0
+SYN-2026-0049,A-037,Default or vendor-set credentials on local HMI,Credentials,8.2,High,2026-07-31,2026-08-14,Open,,E-022,14,Yes,11
+SYN-2026-0050,A-038,Remote vendor session without recording,Access,5.7,Medium,2026-03-18,2026-04-17,Open,,E-201,30,Yes,130
+SYN-2026-0051,A-038,Missing network segmentation rule for monitoring traffic,Network,7.1,High,2026-08-16,2026-08-30,Open,,E-140,14,No,0
+SYN-2026-0052,A-039,Unsigned firmware update path,Firmware,6.9,Medium,2026-08-16,2026-09-15,Accepted risk,,E-153,30,No,0
+SYN-2026-0053,A-039,Unnecessary service enabled on controller,Hardening,4.1,Medium,2026-06-16,2026-07-16,Closed,2026-07-01,E-089,30,No,0
+SYN-2026-0054,A-040,Time synchronisation not authenticated,Network,4.6,Medium,2026-07-16,2026-08-15,In remediation,,E-013,30,Yes,10
+SYN-2026-0055,A-040,Unsigned firmware update path,Firmware,7.4,High,2026-08-21,2026-09-04,Accepted risk,,E-140,14,No,0
+SYN-2026-0056,A-041,Outdated firmware on condition-monitoring gateway,Firmware,7.6,High,2026-07-16,2026-07-30,Closed,2026-07-22,E-030,14,No,0
+SYN-2026-0057,A-041,Unnecessary service enabled on controller,Hardening,5.7,Medium,2026-08-16,2026-09-15,In remediation,,E-237,30,No,0
+SYN-2026-0058,A-041,Missing network segmentation rule for monitoring traffic,Network,5.8,Medium,2026-08-21,2026-09-20,Accepted risk,,E-184,30,No,0
+SYN-2026-0059,A-042,Unsigned firmware update path,Firmware,6.7,Medium,2026-06-16,2026-07-16,Open,,E-057,30,Yes,40
+SYN-2026-0060,A-044,Default or vendor-set credentials on local HMI,Credentials,8.1,High,2026-07-16,2026-07-30,Accepted risk,,E-123,14,No,0
+SYN-2026-0061,A-044,Time synchronisation not authenticated,Network,3.5,Low,2026-06-16,2026-09-14,Closed,2026-07-18,E-118,90,No,0
+SYN-2026-0062,A-045,Unsupported operating system on engineering workstation,Platform,8.0,High,2026-08-16,2026-08-30,Open,,E-085,14,No,0
+SYN-2026-0063,A-045,Outdated firmware on condition-monitoring gateway,Firmware,5.8,Medium,2026-07-16,2026-08-15,Accepted risk,,E-079,30,No,0
+SYN-2026-0064,A-046,Remote vendor session without recording,Access,4.5,Medium,2026-05-07,2026-06-06,In remediation,,E-043,30,Yes,80
+SYN-2026-0065,A-046,Unsupported operating system on engineering workstation,Platform,8.6,High,2026-06-16,2026-06-30,Open,,E-175,14,Yes,56
+SYN-2026-0066,A-047,Time synchronisation not authenticated,Network,3.7,Low,2026-07-31,2026-10-29,Closed,2026-08-11,E-025,90,No,0
+SYN-2026-0067,A-048,Unsigned firmware update path,Firmware,6.8,Medium,2026-08-16,2026-09-15,Open,,E-027,30,No,0
+SYN-2026-0068,A-049,Unsupported operating system on engineering workstation,Platform,6.8,Medium,2026-07-31,2026-08-30,Open,,E-058,30,No,0
+SYN-2026-0069,A-050,Unnecessary service enabled on controller,Hardening,4.1,Medium,2026-07-31,2026-08-30,Open,,E-113,30,No,0
+SYN-2026-0070,A-051,Default or vendor-set credentials on local HMI,Credentials,7.6,High,2026-03-18,2026-04-01,In remediation,,E-193,14,Yes,146
+SYN-2026-0071,A-052,Unnecessary service enabled on controller,Hardening,4.0,Medium,2026-07-31,2026-08-30,Open,,E-093,30,No,0
+SYN-2026-0072,A-053,Outdated firmware on condition-monitoring gateway,Firmware,7.4,High,2026-08-16,2026-08-30,In remediation,,E-121,14,No,0
+SYN-2026-0073,A-054,Unnecessary service enabled on controller,Hardening,4.4,Medium,2026-08-09,2026-09-08,Closed,2026-09-15,E-220,30,No,0
+SYN-2026-0074,A-055,Unsupported operating system on engineering workstation,Platform,7.8,High,2026-05-07,2026-05-21,Open,,E-141,14,Yes,96
+SYN-2026-0075,A-055,Outdated firmware on condition-monitoring gateway,Firmware,6.5,Medium,2026-03-18,2026-04-17,In remediation,,E-043,30,Yes,130
+SYN-2026-0076,A-056,Weak TLS configuration on historian link,Crypto,5.6,Medium,2026-08-16,2026-09-15,Accepted risk,,E-100,30,No,0
+SYN-2026-0077,A-056,Time synchronisation not authenticated,Network,4.5,Medium,2026-08-21,2026-09-20,Accepted risk,,E-134,30,No,0
+SYN-2026-0078,A-057,Unsupported operating system on engineering workstation,Platform,7.7,High,2026-03-18,2026-04-01,Open,,E-123,14,Yes,146
+SYN-2026-0079,A-057,Unsupported operating system on engineering workstation,Platform,6.7,Medium,2026-08-16,2026-09-15,Open,,E-037,30,No,0
+SYN-2026-0080,A-058,Engineering port reachable from wrong network segment,Network,6.8,Medium,2026-05-07,2026-06-06,In remediation,,E-211,30,Yes,80
+SYN-2026-0081,A-058,Default or vendor-set credentials on local HMI,Credentials,7.6,High,2026-07-31,2026-08-14,Closed,2026-09-01,E-056,14,No,0
+SYN-2026-0082,A-061,Unnecessary service enabled on controller,Hardening,4.6,Medium,2026-05-07,2026-06-06,Closed,2026-05-24,E-240,30,No,0
+SYN-2026-0083,A-062,Default or vendor-set credentials on local HMI,Credentials,8.8,High,2026-07-16,2026-07-30,Closed,2026-07-22,E-202,14,No,0
+SYN-2026-0084,A-062,Unnecessary service enabled on controller,Hardening,4.0,Medium,2026-08-16,2026-09-15,In remediation,,E-120,30,No,0
+SYN-2026-0085,A-063,Outdated firmware on condition-monitoring gateway,Firmware,8.0,High,2026-07-31,2026-08-14,Open,,E-138,14,Yes,11
+SYN-2026-0086,A-063,Remote vendor session without recording,Access,4.0,Medium,2026-07-31,2026-08-30,Open,,E-157,30,No,0
+SYN-2026-0087,A-063,Unsupported operating system on engineering workstation,Platform,6.9,Medium,2026-05-07,2026-06-06,Open,,E-110,30,Yes,80
+SYN-2026-0088,A-065,Missing network segmentation rule for monitoring traffic,Network,6.6,Medium,2026-03-18,2026-04-17,Open,,E-187,30,Yes,130
+SYN-2026-0089,A-065,Missing network segmentation rule for monitoring traffic,Network,5.6,Medium,2026-05-07,2026-06-06,In remediation,,E-155,30,Yes,80
+SYN-2026-0090,A-065,Unsigned firmware update path,Firmware,6.8,Medium,2026-07-31,2026-08-30,Closed,2026-08-25,E-029,30,No,0
+SYN-2026-0091,A-066,Unnecessary service enabled on controller,Hardening,6.1,Medium,2026-06-16,2026-07-16,Closed,2026-07-19,E-088,30,No,0
+SYN-2026-0092,A-067,Unsupported operating system on engineering workstation,Platform,8.8,High,2026-07-16,2026-07-30,Closed,2026-08-11,E-055,14,No,0
+SYN-2026-0093,A-067,Weak TLS configuration on historian link,Crypto,5.6,Medium,2026-03-18,2026-04-17,Open,,E-019,30,Yes,130
+SYN-2026-0094,A-069,Missing network segmentation rule for monitoring traffic,Network,5.3,Medium,2026-06-16,2026-07-16,In remediation,,E-099,30,Yes,40
+SYN-2026-0095,A-070,Unsigned firmware update path,Firmware,6.7,Medium,2026-07-16,2026-08-15,In remediation,,E-021,30,Yes,10
+SYN-2026-0096,A-071,Remote vendor session without recording,Access,5.2,Medium,2026-08-16,2026-09-15,Open,,E-106,30,No,0
+SYN-2026-0097,A-071,Time synchronisation not authenticated,Network,3.3,Low,2026-03-18,2026-06-16,Open,,E-143,90,Yes,70
+SYN-2026-0098,A-072,Remote vendor session without recording,Access,3.9,Low,2026-07-31,2026-10-29,Closed,2026-11-01,E-184,90,No,0
+SYN-2026-0099,A-073,Default or vendor-set credentials on local HMI,Credentials,8.0,High,2026-03-18,2026-04-01,Open,,E-085,14,Yes,146
+SYN-2026-0100,A-074,Missing network segmentation rule for monitoring traffic,Network,5.4,Medium,2026-08-16,2026-09-15,Closed,2026-09-19,E-167,30,No,0
+SYN-2026-0101,A-075,Outdated firmware on condition-monitoring gateway,Firmware,5.7,Medium,2026-06-16,2026-07-16,Open,,E-141,30,Yes,40
+SYN-2026-0102,A-076,Default or vendor-set credentials on local HMI,Credentials,7.4,High,2026-03-18,2026-04-01,Closed,2026-03-31,E-056,14,No,0
+SYN-2026-0103,A-077,Default or vendor-set credentials on local HMI,Credentials,7.4,High,2026-07-16,2026-07-30,Open,,E-011,14,Yes,26
+SYN-2026-0104,A-077,Engineering port reachable from wrong network segment,Network,6.9,Medium,2026-06-16,2026-07-16,Closed,2026-07-17,E-011,30,No,0
+SYN-2026-0105,A-078,Unsigned firmware update path,Firmware,7.0,High,2026-08-21,2026-09-04,Open,,E-007,14,No,0
+SYN-2026-0106,A-078,Weak TLS configuration on historian link,Crypto,5.0,Medium,2026-07-31,2026-08-30,Accepted risk,,E-087,30,No,0
+SYN-2026-0107,A-078,Engineering port reachable from wrong network segment,Network,5.9,Medium,2026-08-16,2026-09-15,Open,,E-134,30,No,0
+SYN-2026-0108,A-079,Default or vendor-set credentials on local HMI,Credentials,8.0,High,2026-08-21,2026-09-04,In remediation,,E-173,14,No,0
+SYN-2026-0109,A-080,Default or vendor-set credentials on local HMI,Credentials,7.9,High,2026-08-16,2026-08-30,Open,,E-042,14,No,0
+SYN-2026-0110,A-081,Outdated firmware on condition-monitoring gateway,Firmware,5.6,Medium,2026-08-21,2026-09-20,Open,,E-052,30,No,0
+SYN-2026-0111,A-081,Weak TLS configuration on historian link,Crypto,4.8,Medium,2026-08-16,2026-09-15,Open,,E-118,30,No,0
+SYN-2026-0112,A-081,Remote vendor session without recording,Access,5.5,Medium,2026-05-07,2026-06-06,Accepted risk,,E-032,30,No,0
+SYN-2026-0113,A-084,Outdated firmware on condition-monitoring gateway,Firmware,7.2,High,2026-03-18,2026-04-01,Closed,2026-04-08,E-005,14,No,0
+SYN-2026-0114,A-086,Unnecessary service enabled on controller,Hardening,5.8,Medium,2026-03-18,2026-04-17,Closed,2026-04-07,E-213,30,No,0
+SYN-2026-0115,A-087,Unsupported operating system on engineering workstation,Platform,6.7,Medium,2026-06-16,2026-07-16,Open,,E-078,30,Yes,40
+SYN-2026-0116,A-087,Engineering port reachable from wrong network segment,Network,7.1,High,2026-07-31,2026-08-14,Open,,E-143,14,Yes,11
+SYN-2026-0117,A-088,Time synchronisation not authenticated,Network,4.8,Medium,2026-06-16,2026-07-16,Open,,E-067,30,Yes,40
+SYN-2026-0118,A-089,Unnecessary service enabled on controller,Hardening,6.3,Medium,2026-08-09,2026-09-08,Open,,E-033,30,No,0
+SYN-2026-0119,A-091,Unnecessary service enabled on controller,Hardening,5.3,Medium,2026-08-16,2026-09-15,Closed,2026-09-05,E-186,30,No,0
+SYN-2026-0120,A-092,Missing network segmentation rule for monitoring traffic,Network,5.8,Medium,2026-07-31,2026-08-30,Closed,2026-09-07,E-087,30,No,0
+SYN-2026-0121,A-092,Default or vendor-set credentials on local HMI,Credentials,7.4,High,2026-03-18,2026-04-01,Accepted risk,,E-021,14,No,0
+SYN-2026-0122,A-093,Weak TLS configuration on historian link,Crypto,6.1,Medium,2026-08-21,2026-09-20,Open,,E-237,30,No,0
+SYN-2026-0123,A-094,Missing network segmentation rule for monitoring traffic,Network,7.1,High,2026-08-21,2026-09-04,Open,,E-032,14,No,0
+SYN-2026-0124,A-094,Outdated firmware on condition-monitoring gateway,Firmware,6.7,Medium,2026-08-09,2026-09-08,Open,,E-092,30,No,0
+SYN-2026-0125,A-095,Engineering port reachable from wrong network segment,Network,8.1,High,2026-05-07,2026-05-21,Accepted risk,,E-011,14,No,0
+SYN-2026-0126,A-095,Weak TLS configuration on historian link,Crypto,5.1,Medium,2026-08-16,2026-09-15,Closed,2026-08-23,E-179,30,No,0
+SYN-2026-0127,A-097,Engineering port reachable from wrong network segment,Network,7.1,High,2026-06-16,2026-06-30,Open,,E-192,14,Yes,56
+SYN-2026-0128,A-097,Unsigned firmware update path,Firmware,6.1,Medium,2026-06-16,2026-07-16,Accepted risk,,E-059,30,No,0
+SYN-2026-0129,A-098,Unnecessary service enabled on controller,Hardening,5.8,Medium,2026-05-07,2026-06-06,Accepted risk,,E-178,30,No,0
+SYN-2026-0130,A-098,Default or vendor-set credentials on local HMI,Credentials,8.2,High,2026-05-07,2026-05-21,Open,,E-098,14,Yes,96
+SYN-2026-0131,A-098,Unsigned firmware update path,Firmware,6.8,Medium,2026-07-16,2026-08-15,Closed,2026-08-10,E-135,30,No,0
+SYN-2026-0132,A-099,Time synchronisation not authenticated,Network,4.3,Medium,2026-08-09,2026-09-08,Closed,2026-08-21,E-009,30,No,0
+SYN-2026-0133,A-100,Weak TLS configuration on historian link,Crypto,5.7,Medium,2026-05-07,2026-06-06,Closed,2026-05-16,E-224,30,No,0
+SYN-2026-0134,A-101,Default or vendor-set credentials on local HMI,Credentials,9.1,Critical,2026-03-18,2026-03-25,Closed,2026-03-29,E-021,7,No,0
+SYN-2026-0135,A-102,Unsigned firmware update path,Firmware,7.2,High,2026-08-21,2026-09-04,Open,,E-086,14,No,0
+SYN-2026-0136,A-102,Unnecessary service enabled on controller,Hardening,4.3,Medium,2026-08-09,2026-09-08,Open,,E-214,30,No,0
+SYN-2026-0137,A-104,Default or vendor-set credentials on local HMI,Credentials,7.0,High,2026-07-16,2026-07-30,In remediation,,E-196,14,Yes,26
+SYN-2026-0138,A-105,Engineering port reachable from wrong network segment,Network,8.1,High,2026-07-31,2026-08-14,Open,,E-069,14,Yes,11
+SYN-2026-0139,A-105,Unnecessary service enabled on controller,Hardening,5.2,Medium,2026-08-16,2026-09-15,Accepted risk,,E-097,30,No,0
+SYN-2026-0140,A-106,Remote vendor session without recording,Access,4.1,Medium,2026-07-16,2026-08-15,Accepted risk,,E-131,30,No,0
+SYN-2026-0141,A-108,Default or vendor-set credentials on local HMI,Credentials,8.2,High,2026-06-16,2026-06-30,Closed,2026-07-14,E-078,14,No,0
+SYN-2026-0142,A-109,Unsupported operating system on engineering workstation,Platform,8.8,High,2026-05-07,2026-05-21,Open,,E-088,14,Yes,96
+SYN-2026-0143,A-109,Outdated firmware on condition-monitoring gateway,Firmware,6.8,Medium,2026-08-09,2026-09-08,Open,,E-106,30,No,0
+SYN-2026-0144,A-110,Remote vendor session without recording,Access,5.0,Medium,2026-05-07,2026-06-06,Open,,E-112,30,Yes,80
+SYN-2026-0145,A-110,Missing network segmentation rule for monitoring traffic,Network,6.9,Medium,2026-07-16,2026-08-15,Closed,2026-08-07,E-031,30,No,0
+SYN-2026-0146,A-110,Missing network segmentation rule for monitoring traffic,Network,7.1,High,2026-08-16,2026-08-30,Open,,E-005,14,No,0
+SYN-2026-0147,A-112,Weak TLS configuration on historian link,Crypto,6.5,Medium,2026-08-09,2026-09-08,Open,,E-013,30,No,0
+SYN-2026-0148,A-112,Remote vendor session without recording,Access,3.9,Low,2026-08-21,2026-11-19,Open,,E-130,90,No,0
+SYN-2026-0149,A-113,Outdated firmware on condition-monitoring gateway,Firmware,7.1,High,2026-07-31,2026-08-14,Open,,E-199,14,Yes,11
+SYN-2026-0150,A-113,Unnecessary service enabled on controller,Hardening,5.9,Medium,2026-03-18,2026-04-17,Open,,E-056,30,Yes,130
+SYN-2026-0151,A-114,Outdated firmware on condition-monitoring gateway,Firmware,7.6,High,2026-08-21,2026-09-04,Closed,2026-08-24,E-004,14,No,0
+SYN-2026-0152,A-114,Engineering port reachable from wrong network segment,Network,8.1,High,2026-03-18,2026-04-01,Open,,E-202,14,Yes,146
+SYN-2026-0153,A-115,Engineering port reachable from wrong network segment,Network,6.5,Medium,2026-08-16,2026-09-15,In remediation,,E-037,30,No,0
+SYN-2026-0154,A-115,Unsigned firmware update path,Firmware,7.4,High,2026-05-07,2026-05-21,Accepted risk,,E-067,14,No,0
+SYN-2026-0155,A-116,Unnecessary service enabled on controller,Hardening,4.9,Medium,2026-08-16,2026-09-15,Open,,E-170,30,No,0
+SYN-2026-0156,A-116,Unsigned firmware update path,Firmware,7.2,High,2026-08-16,2026-08-30,Closed,2026-09-12,E-210,14,No,0
+SYN-2026-0157,A-117,Time synchronisation not authenticated,Network,3.8,Low,2026-08-16,2026-11-14,Accepted risk,,E-102,90,No,0
+SYN-2026-0158,A-121,Engineering port reachable from wrong network segment,Network,7.3,High,2026-08-09,2026-08-23,Closed,2026-08-27,E-162,14,No,0
+SYN-2026-0159,A-121,Unsupported operating system on engineering workstation,Platform,8.4,High,2026-08-16,2026-08-30,Open,,E-146,14,No,0
+SYN-2026-0160,A-121,Unsupported operating system on engineering workstation,Platform,8.7,High,2026-06-16,2026-06-30,Open,,E-091,14,Yes,56
+SYN-2026-0161,A-122,Time synchronisation not authenticated,Network,4.1,Medium,2026-03-18,2026-04-17,Open,,E-011,30,Yes,130
+SYN-2026-0162,A-122,Missing network segmentation rule for monitoring traffic,Network,6.0,Medium,2026-05-07,2026-06-06,In remediation,,E-025,30,Yes,80
+SYN-2026-0163,A-124,Engineering port reachable from wrong network segment,Network,7.0,High,2026-05-07,2026-05-21,Open,,E-233,14,Yes,96
+SYN-2026-0164,A-125,Unsigned firmware update path,Firmware,7.4,High,2026-07-31,2026-08-14,Open,,E-024,14,Yes,11
+SYN-2026-0165,A-126,Outdated firmware on condition-monitoring gateway,Firmware,7.7,High,2026-08-09,2026-08-23,Open,,E-070,14,Yes,2
+SYN-2026-0166,A-127,Time synchronisation not authenticated,Network,3.6,Low,2026-03-18,2026-06-16,Closed,2026-06-16,E-138,90,No,0
+SYN-2026-0167,A-128,Unnecessary service enabled on controller,Hardening,4.3,Medium,2026-08-16,2026-09-15,In remediation,,E-240,30,No,0
+SYN-2026-0168,A-128,Default or vendor-set credentials on local HMI,Credentials,8.5,High,2026-08-21,2026-09-04,Open,,E-173,14,No,0
+SYN-2026-0169,A-001,Outdated firmware on condition-monitoring gateway,Firmware,7.8,High,2026-07-15,2026-07-29,Open,,E-066,14,Yes,27
+SYN-2026-0170,A-001,Default or vendor-set credentials on local HMI,Credentials,8.2,High,2026-07-23,2026-08-06,Open,,E-033,14,Yes,19
+SYN-2026-0171,A-001,Remote vendor session without recording,Access,4.6,Medium,2026-08-06,2026-09-05,In remediation,,E-225,30,No,0
+SYN-2026-0172,A-001,Weak TLS configuration on historian link,Crypto,5.1,Medium,2026-05-22,2026-06-21,Closed,2026-06-21,E-090,30,No,0
+SYN-2026-0173,A-033,Weak TLS configuration on historian link,Crypto,4.4,Medium,2026-08-13,2026-09-12,Open,,E-036,30,No,0
+SYN-2026-0174,A-033,Time synchronisation not authenticated,Network,3.5,Low,2026-06-16,2026-09-14,Closed,2026-06-26,E-087,90,No,0

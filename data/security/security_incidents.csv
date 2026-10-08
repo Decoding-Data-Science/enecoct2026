@@ -1,0 +1,44 @@
+incident_id,detected_date,asset_id,incident_type,attack_tactic_hint,detection_source,severity,status,analyst_employee_id,linked_alert_id
+SEC-INC-0037,2026-08-22,A-118,Firmware integrity mismatch,Persistence,Integrity check,Medium,Open,E-181,ALT-00410
+SEC-INC-0012,2026-08-22,A-040,Off-hours remote vendor session,Initial Access,VPN log,Medium,Closed,E-185,ALT-00426
+SEC-INC-0019,2026-08-22,A-053,Firmware integrity mismatch,Persistence,Integrity check,Low,False positive,E-101,
+SEC-INC-0030,2026-08-17,A-087,Unusual command to controller outside change window,Lateral Movement,OT monitor,High,Contained,E-029,ALT-00334
+SEC-INC-0040,2026-08-14,A-001,Failed login burst,Credential Access,SIEM,Medium,Open,E-157,ALT-00276
+SEC-INC-0032,2026-08-10,A-094,Unauthorised configuration change,Impact,Config monitor,Low,Contained,E-099,ALT-00223
+SEC-INC-0031,2026-08-10,A-090,Unauthorised configuration change,Impact,Config monitor,Low,False positive,E-225,
+SEC-INC-0038,2026-08-10,A-119,Unauthorised configuration change,Impact,Config monitor,Low,Closed,E-204,ALT-00212
+SEC-INC-0026,2026-08-10,A-063,Off-hours remote vendor session,Initial Access,VPN log,Medium,Contained,E-221,ALT-00202
+SEC-INC-0017,2026-08-10,A-050,Unauthorised configuration change,Impact,Config monitor,Low,Closed,E-033,ALT-00198
+SEC-INC-0016,2026-08-10,A-044,Internal port scan from unmanaged host,Discovery,IDS,Low,Closed,E-163,ALT-00219
+SEC-INC-0001,2026-08-10,A-005,Malware detected on engineering laptop (blocked),Execution,Endpoint,Medium,Closed,E-081,
+SEC-INC-0018,2026-08-10,A-050,Firmware integrity mismatch,Persistence,Integrity check,Medium,Closed,E-137,ALT-00198
+SEC-INC-0041,2026-07-30,A-001,Off-hours remote vendor session,Initial Access,VPN log,High,Contained,E-146,ALT-00043
+SEC-INC-0020,2026-07-29,A-053,Internal port scan from unmanaged host,Discovery,IDS,Medium,Contained,E-059,ALT-00026
+SEC-INC-0036,2026-07-29,A-116,Failed login burst,Credential Access,SIEM,High,Closed,E-071,ALT-00030
+SEC-INC-0013,2026-07-29,A-040,Internal port scan from unmanaged host,Discovery,IDS,Medium,False positive,E-136,ALT-00018
+SEC-INC-0011,2026-07-29,A-039,Off-hours remote vendor session,Initial Access,VPN log,Low,Contained,E-182,ALT-00042
+SEC-INC-0025,2026-07-15,A-062,Removable media policy violation,Initial Access,Endpoint,Medium,Closed,E-012,
+SEC-INC-0034,2026-07-15,A-103,Malware detected on engineering laptop (blocked),Execution,Endpoint,High,Closed,E-020,
+SEC-INC-0033,2026-07-15,A-100,Unauthorised configuration change,Impact,Config monitor,High,Open,E-022,
+SEC-INC-0004,2026-07-15,A-014,Internal port scan from unmanaged host,Discovery,IDS,Medium,Open,E-227,
+SEC-INC-0007,2026-07-15,A-023,Failed login burst,Credential Access,SIEM,Medium,False positive,E-135,
+SEC-INC-0027,2026-07-15,A-065,Unusual command to controller outside change window,Lateral Movement,OT monitor,High,Closed,E-025,
+SEC-INC-0014,2026-07-15,A-042,Failed login burst,Credential Access,SIEM,Medium,Open,E-067,
+SEC-INC-0023,2026-07-15,A-058,Malware detected on engineering laptop (blocked),Execution,Endpoint,Low,Open,E-008,
+SEC-INC-0009,2026-06-23,A-029,Unusual command to controller outside change window,Lateral Movement,OT monitor,Medium,Contained,E-104,
+SEC-INC-0008,2026-06-23,A-026,Malware detected on engineering laptop (blocked),Execution,Endpoint,Medium,Open,E-140,
+SEC-INC-0024,2026-06-23,A-059,Failed login burst,Credential Access,SIEM,Low,Closed,E-214,
+SEC-INC-0042,2026-06-12,A-001,Firmware integrity mismatch,Persistence,Integrity check,Low,Closed,E-045,
+SEC-INC-0029,2026-05-29,A-079,Failed login burst,Credential Access,SIEM,High,Closed,E-166,
+SEC-INC-0006,2026-04-27,A-017,Off-hours remote vendor session,Initial Access,VPN log,Medium,Closed,E-146,
+SEC-INC-0005,2026-04-27,A-017,Firmware integrity mismatch,Persistence,Integrity check,Low,Closed,E-043,
+SEC-INC-0039,2026-04-27,A-121,Removable media policy violation,Initial Access,Endpoint,High,Open,E-141,
+SEC-INC-0015,2026-04-27,A-043,Removable media policy violation,Initial Access,Endpoint,Medium,Closed,E-047,
+SEC-INC-0043,2026-04-07,A-033,Internal port scan from unmanaged host,Discovery,IDS,Low,Closed,E-090,
+SEC-INC-0028,2026-03-18,A-077,Malware detected on engineering laptop (blocked),Execution,Endpoint,Low,Closed,E-064,
+SEC-INC-0002,2026-01-17,A-010,Removable media policy violation,Initial Access,Endpoint,Low,Contained,E-064,
+SEC-INC-0003,2026-01-17,A-012,Failed login burst,Credential Access,SIEM,Low,Contained,E-197,
+SEC-INC-0035,2025-10-29,A-111,Unusual command to controller outside change window,Lateral Movement,OT monitor,Low,Closed,E-087,
+SEC-INC-0021,2025-10-29,A-055,Removable media policy violation,Initial Access,Endpoint,Low,Closed,E-200,
+SEC-INC-0010,2025-10-29,A-037,Failed login burst,Credential Access,SIEM,Low,Closed,E-193,
+SEC-INC-0022,2025-10-29,A-056,Unusual command to controller outside change window,Lateral Movement,OT monitor,High,Closed,E-190,

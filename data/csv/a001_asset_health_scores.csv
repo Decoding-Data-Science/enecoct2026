@@ -1,0 +1,91 @@
+score_date,asset_id,health_score,risk_level,recommended_action,model_version
+2026-05-28,A-001,94.27,LOW,Continue routine monitoring,health-v1.2
+2026-05-29,A-001,94.97,LOW,Continue routine monitoring,health-v1.2
+2026-05-30,A-001,94.74,LOW,Continue routine monitoring,health-v1.2
+2026-05-31,A-001,94.42,LOW,Continue routine monitoring,health-v1.2
+2026-06-01,A-001,92.05,LOW,Continue routine monitoring,health-v1.2
+2026-06-02,A-001,94.13,LOW,Continue routine monitoring,health-v1.2
+2026-06-03,A-001,95.77,LOW,Continue routine monitoring,health-v1.2
+2026-06-04,A-001,93.04,LOW,Continue routine monitoring,health-v1.2
+2026-06-05,A-001,94.44,LOW,Continue routine monitoring,health-v1.2
+2026-06-06,A-001,94.33,LOW,Continue routine monitoring,health-v1.2
+2026-06-07,A-001,94.91,LOW,Continue routine monitoring,health-v1.2
+2026-06-08,A-001,92.76,LOW,Continue routine monitoring,health-v1.2
+2026-06-09,A-001,95.72,LOW,Continue routine monitoring,health-v1.2
+2026-06-10,A-001,94.29,LOW,Continue routine monitoring,health-v1.2
+2026-06-11,A-001,92.7,LOW,Continue routine monitoring,health-v1.2
+2026-06-12,A-001,95.83,LOW,Continue routine monitoring,health-v1.2
+2026-06-13,A-001,94.49,LOW,Continue routine monitoring,health-v1.2
+2026-06-14,A-001,95.81,LOW,Continue routine monitoring,health-v1.2
+2026-06-15,A-001,92.91,LOW,Continue routine monitoring,health-v1.2
+2026-06-16,A-001,92.82,LOW,Continue routine monitoring,health-v1.2
+2026-06-17,A-001,93.04,LOW,Continue routine monitoring,health-v1.2
+2026-06-18,A-001,94.06,LOW,Continue routine monitoring,health-v1.2
+2026-06-19,A-001,93.28,LOW,Continue routine monitoring,health-v1.2
+2026-06-20,A-001,95.61,LOW,Continue routine monitoring,health-v1.2
+2026-06-21,A-001,92.26,LOW,Continue routine monitoring,health-v1.2
+2026-06-22,A-001,95.17,LOW,Continue routine monitoring,health-v1.2
+2026-06-23,A-001,95.91,LOW,Continue routine monitoring,health-v1.2
+2026-06-24,A-001,95.35,LOW,Continue routine monitoring,health-v1.2
+2026-06-25,A-001,92.88,LOW,Continue routine monitoring,health-v1.2
+2026-06-26,A-001,93.84,LOW,Continue routine monitoring,health-v1.2
+2026-06-27,A-001,92.46,LOW,Continue routine monitoring,health-v1.2
+2026-06-28,A-001,93.78,LOW,Continue routine monitoring,health-v1.2
+2026-06-29,A-001,94.2,LOW,Continue routine monitoring,health-v1.2
+2026-06-30,A-001,93.85,LOW,Continue routine monitoring,health-v1.2
+2026-07-01,A-001,93.56,LOW,Continue routine monitoring,health-v1.2
+2026-07-02,A-001,92.65,LOW,Continue routine monitoring,health-v1.2
+2026-07-03,A-001,95.44,LOW,Continue routine monitoring,health-v1.2
+2026-07-04,A-001,93.44,LOW,Continue routine monitoring,health-v1.2
+2026-07-05,A-001,93.93,LOW,Continue routine monitoring,health-v1.2
+2026-07-06,A-001,92.4,LOW,Continue routine monitoring,health-v1.2
+2026-07-07,A-001,94.51,LOW,Continue routine monitoring,health-v1.2
+2026-07-08,A-001,95.05,LOW,Continue routine monitoring,health-v1.2
+2026-07-09,A-001,95.99,LOW,Continue routine monitoring,health-v1.2
+2026-07-10,A-001,94.79,LOW,Continue routine monitoring,health-v1.2
+2026-07-11,A-001,93.77,LOW,Continue routine monitoring,health-v1.2
+2026-07-12,A-001,95.51,LOW,Continue routine monitoring,health-v1.2
+2026-07-13,A-001,94.28,LOW,Continue routine monitoring,health-v1.2
+2026-07-14,A-001,95.3,LOW,Continue routine monitoring,health-v1.2
+2026-07-15,A-001,94.47,LOW,Continue routine monitoring,health-v1.2
+2026-07-16,A-001,93.82,LOW,Continue routine monitoring,health-v1.2
+2026-07-17,A-001,92.36,LOW,Continue routine monitoring,health-v1.2
+2026-07-18,A-001,93.36,LOW,Continue routine monitoring,health-v1.2
+2026-07-19,A-001,95.47,LOW,Continue routine monitoring,health-v1.2
+2026-07-20,A-001,92.08,LOW,Continue routine monitoring,health-v1.2
+2026-07-21,A-001,95.27,LOW,Continue routine monitoring,health-v1.2
+2026-07-22,A-001,91.3,LOW,Continue routine monitoring,health-v1.2
+2026-07-23,A-001,92.73,LOW,Continue routine monitoring,health-v1.2
+2026-07-24,A-001,91.46,LOW,Continue routine monitoring,health-v1.2
+2026-07-25,A-001,91.94,LOW,Continue routine monitoring,health-v1.2
+2026-07-26,A-001,88.41,LOW,Continue routine monitoring,health-v1.2
+2026-07-27,A-001,89.53,LOW,Continue routine monitoring,health-v1.2
+2026-07-28,A-001,87.58,LOW,Continue routine monitoring,health-v1.2
+2026-07-29,A-001,89.12,LOW,Continue routine monitoring,health-v1.2
+2026-07-30,A-001,88.19,LOW,Continue routine monitoring,health-v1.2
+2026-07-31,A-001,87.38,LOW,Continue routine monitoring,health-v1.2
+2026-08-01,A-001,87.73,LOW,Continue routine monitoring,health-v1.2
+2026-08-02,A-001,86.4,LOW,Continue routine monitoring,health-v1.2
+2026-08-03,A-001,86.46,LOW,Continue routine monitoring,health-v1.2
+2026-08-04,A-001,85.18,LOW,Continue routine monitoring,health-v1.2
+2026-08-05,A-001,81.7,LOW,Continue routine monitoring,health-v1.2
+2026-08-06,A-001,82.46,LOW,Continue routine monitoring,health-v1.2
+2026-08-07,A-001,82.68,LOW,Continue routine monitoring,health-v1.2
+2026-08-08,A-001,80.0,MEDIUM,Increase monitoring,health-v1.2
+2026-08-09,A-001,81.57,LOW,Continue routine monitoring,health-v1.2
+2026-08-10,A-001,80.47,LOW,Continue routine monitoring,health-v1.2
+2026-08-11,A-001,79.68,MEDIUM,Increase monitoring,health-v1.2
+2026-08-12,A-001,78.63,MEDIUM,Increase monitoring,health-v1.2
+2026-08-13,A-001,76.6,MEDIUM,Increase monitoring,health-v1.2
+2026-08-14,A-001,76.12,MEDIUM,Increase monitoring,health-v1.2
+2026-08-15,A-001,76.88,MEDIUM,Increase monitoring,health-v1.2
+2026-08-16,A-001,75.37,MEDIUM,Increase monitoring,health-v1.2
+2026-08-17,A-001,74.94,MEDIUM,Increase monitoring,health-v1.2
+2026-08-18,A-001,72.3,MEDIUM,Increase monitoring,health-v1.2
+2026-08-19,A-001,74.5,MEDIUM,Increase monitoring,health-v1.2
+2026-08-20,A-001,73.67,MEDIUM,Increase monitoring,health-v1.2
+2026-08-21,A-001,72.91,MEDIUM,Increase monitoring,health-v1.2
+2026-08-22,A-001,70.81,MEDIUM,Increase monitoring,health-v1.2
+2026-08-23,A-001,68.6,MEDIUM,Increase monitoring,health-v1.2
+2026-08-24,A-001,69.18,MEDIUM,Increase monitoring,health-v1.2
+2026-08-25,A-001,68.05,MEDIUM,Increase monitoring,health-v1.2

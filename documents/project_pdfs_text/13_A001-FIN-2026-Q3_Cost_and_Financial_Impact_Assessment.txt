@@ -1,0 +1,80 @@
+NORTHSTAR PROCESS FACILITY                                                              SYNTHETIC TRAINING CORPUS
+
+
+
+
+ A001-FIN-2026-Q3 / APPROVED
+
+
+ A-001 Cost and Financial Impact
+ Assessment - Q3 2026
+ A-001 | Cooling Water Pump | Enterprise Asset Reliability Training Scenario
+  Document ID                       A001-FIN-2026-Q3           Version                     1.0
+  Status                            APPROVED                   Effective / Issue Date      2026-09-09
+  Owner                             Finance Business Partner   Asset                       A-001
+  Location                          Utilities Area - Bay 3     Data Class                  Synthetic / Training
+
+
+ TRAINING NOTICE: This fictional document is designed only for AI/RAG, analytics and governance
+ training. It is not an engineering instruction and must not be used on real equipment.
+
+
+ 1. Purpose
+ This synthetic assessment provides a planning-level financial view of the A-001 reliability review. Values are
+ fictional and intentionally simplified. They support training on cost context, project risk and evidence
+ traceability.
+
+ 2. Planning Cost Range
+  Cost Element                                   Low Estimate (USD)    High Estimate         Assumption
+                                                                       (USD)
+  Inspection / diagnostic support                2,500                 4,500                 Limited specialist review
+  Vendor technical support                       3,000                 6,000                 Remote + one site-support
+                                                                                             allowance
+  Potential spares package                       6,000                 14,000                Placeholder range pending
+                                                                                             vendor confirmation
+  Planned maintenance labor                      4,000                 8,000                 Training planning estimate
+  Contingency                                    2,000                 5,000                 For unresolved scope /
+                                                                                             logistics
+  Total planning range                           17,500                37,500                Not an approved budget
+
+
+ 3. Financial Risk Considerations
+  • The largest uncertainty is scope: the evidence does not yet establish a confirmed technical cause.
+  • Vendor spares and service pricing remain provisional until availability is confirmed.
+  • A planning estimate must not be presented as an approved purchase order or budget.
+  • Delays may create additional planning cost, but this document does not quantify operational loss.
+
+
+
+
+A001-FIN-2026-Q3 | APPROVED | Synthetic training document - not for operational use
+                                                                                                                   Page 1
+NORTHSTAR PROCESS FACILITY                                                            SYNTHETIC TRAINING CORPUS
+
+
+
+
+ 4. Scenario View
+  Scenario                                            Illustrative Financial Effect               Confidence
+  Review closes with no additional scope              Lower end of planning range                 Medium
+  Additional specialist support required              Mid-range cost pressure                     Medium
+  Spare package required after qualified review       Upper-range cost pressure                   Low
+
+
+ 5. Financial Controls
+  • Separate cost estimate, funding decision, procurement commitment and actual spend.
+  • Reference the source date and assumptions whenever the estimate is retrieved by RAG.
+  • Do not infer technical necessity from financial provisioning.
+
+ 6. Evidence Traceability
+  Financial Assumption                                          Supporting / Related Source
+  Inspection activity exists                                    A001-DIR-2026-09 / WO-2026-0817
+  Vendor support may be required                                A001-VSR-2026-09
+  Project still contains unresolved dependencies                A001-PRA-2026-09 / A001-MPR-2026-09
+
+
+
+
+A001-FIN-2026-Q3 | APPROVED | Synthetic training document - not for operational use
+                                                                                                               Page 2
+

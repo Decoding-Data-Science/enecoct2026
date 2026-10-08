@@ -1,0 +1,84 @@
+NORTHSTAR PROCESS FACILITY                                                                   SYNTHETIC TRAINING CORPUS
+
+
+
+
+ A001-ITD-2026-09 / APPROVED
+
+
+ A-001 IT Data Integration and Sensor
+ Assurance Report
+ A-001 | Cooling Water Pump | Enterprise Asset Reliability Training Scenario
+  Document ID                      A001-ITD-2026-09                Version                         1.0
+  Status                           APPROVED                        Effective / Issue Date          2026-09-09
+  Owner                            IT / Data Engineering           Asset                           A-001
+  Location                         Utilities Area - Bay 3          Data Class                      Synthetic / Training
+
+
+ TRAINING NOTICE: This fictional document is designed only for AI/RAG, analytics and governance
+ training. It is not an engineering instruction and must not be used on real equipment.
+
+
+ 1. Purpose
+ This report documents the synthetic data-path review for A-001 sensor and enterprise records used in training.
+ It focuses on data availability, timestamp consistency, source lineage and known limitations.
+
+ 2. Data Sources Reviewed
+  Source                                Data Type                      Status                    Training Use
+  sensor_readings                       Time-series sensor data        Available                 Trend / ML analysis
+  work_orders                           Structured maintenance         Available                 Open work context
+                                        records
+  asset_360                             Asset master / summary         Available                 Asset context
+  A-001 PDF corpus                      Unstructured documents         Available                 RAG / evidence retrieval
+  Vendor service notes                  External support context       Partial                   Readiness assessment
+
+
+ 3. Data-Quality Checks
+  Check                                       Result                       Comment
+  Asset identifier consistency                PASS                         A-001 used across core training sources
+  Timestamp parseability                      PASS                         Core sensor timestamps readable
+  Missing critical sensor values              NO MATERIAL GAP              No training-blocking gap identified
+  Document authority metadata                 PARTIAL                      Requires explicit registry / metadata mapping
+  Cross-source timing alignment               REVIEW                       Event and document dates require contextual
+                                                                           interpretation
+
+
+ 4. Integration Risks
+  • A semantically relevant document may be retrieved even when it is draft or superseded.
+  • Structured and unstructured sources may use different update cycles.
+  • A model result should retain the source timestamp and asset identifier used for scoring.
+
+
+A001-ITD-2026-09 | APPROVED | Synthetic training document - not for operational use
+                                                                                                                            Page 1
+NORTHSTAR PROCESS FACILITY                                                               SYNTHETIC TRAINING CORPUS
+
+
+
+
+ 5. Recommended RAG Metadata
+  Field                                      Purpose
+  document_id                                Stable citation and audit key
+  version                                    Distinguishes similar revisions
+  approval_status                            Separates approved, draft and superseded sources
+  effective_date                             Supports time-aware applicability
+  asset_id                                   Constrains retrieval to the correct asset
+  source_system                              Supports lineage and troubleshooting
+
+
+ 6. Assurance Conclusion
+ The synthetic data environment is suitable for the training exercises, provided that document authority, source
+ timestamps and asset scope are preserved during retrieval and analysis. This report does not certify real
+ instrumentation or production data pipelines.
+
+ 7. Open IT Actions
+  • Maintain a document registry for all training PDFs.
+  • Expose data-quality status alongside model outputs.
+  • Keep source-system and refresh timestamps available for agent tool responses.
+
+
+
+
+A001-ITD-2026-09 | APPROVED | Synthetic training document - not for operational use
+                                                                                                             Page 2
+

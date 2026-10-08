@@ -1,0 +1,43 @@
+username,role,home_country,account_note
+E-001,Operator,AE,Named staff account
+E-002,Operator,AE,Named staff account
+E-003,Operator,AE,Named staff account
+E-004,Operator,AE,Named staff account
+E-005,Operator,AE,Named staff account
+E-006,Operator,AE,Named staff account
+E-007,Operator,AE,Named staff account
+E-008,Operator,AE,Named staff account
+E-009,Operator,AE,Named staff account
+E-010,Operator,AE,Named staff account
+E-011,Operator,AE,Named staff account
+E-012,Operator,AE,Named staff account
+E-013,Operator,AE,Named staff account
+E-014,Operator,AE,Named staff account
+E-015,Engineer,AE,Named staff account
+E-016,Engineer,AE,Named staff account
+E-017,Engineer,AE,Named staff account
+E-018,Engineer,AE,Named staff account
+E-019,Engineer,AE,Named staff account
+E-020,Engineer,AE,Named staff account
+E-021,Engineer,AE,Named staff account
+E-022,Engineer,AE,Named staff account
+E-023,Engineer,AE,Named staff account
+E-024,Engineer,AE,Named staff account
+E-025,Engineer,AE,Named staff account
+E-026,Engineer,AE,Named staff account
+E-027,Engineer,AE,Named staff account
+E-028,Engineer,AE,Named staff account
+E-029,Security analyst,AE,Named staff account
+E-030,Security analyst,AE,Named staff account
+E-031,Security analyst,AE,Named staff account
+E-032,Security analyst,AE,Named staff account
+E-033,Administrator,AE,Named staff account
+E-034,Administrator,AE,Named staff account
+E-035,Administrator,AE,Named staff account
+E-036,Administrator,AE,Named staff account
+vnd_alpha,Vendor,DE,Named vendor account
+vnd_beta,Vendor,US,Named vendor account
+vendor_support01,Vendor,ZZ,SHARED vendor support account
+svc_scada_poll,Service,AE,Service account
+svc_historian,Service,AE,Service account
+scanner_sec,Service,AE,Approved vulnerability scanner

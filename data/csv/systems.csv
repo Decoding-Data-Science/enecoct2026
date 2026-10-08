@@ -1,0 +1,17 @@
+system_id,unit_id,system_name,system_category,responsible_department_id
+TRN-A-SYS-01,TRN-A,Cooling Water,Cooling,D-ENG
+TRN-A-SYS-02,TRN-A,Electrical Distribution,Electrical,D-ENG
+TRN-A-SYS-03,TRN-A,Ventilation,HVAC,D-MNT
+TRN-A-SYS-04,TRN-A,Water Treatment,Process Support,D-MNT
+TRN-B-SYS-01,TRN-B,Cooling Water,Cooling,D-ENG
+TRN-B-SYS-02,TRN-B,Electrical Distribution,Electrical,D-ENG
+TRN-B-SYS-03,TRN-B,Ventilation,HVAC,D-MNT
+TRN-B-SYS-04,TRN-B,Water Treatment,Process Support,D-MNT
+TRN-C-SYS-01,TRN-C,Cooling Water,Cooling,D-ENG
+TRN-C-SYS-02,TRN-C,Electrical Distribution,Electrical,D-ENG
+TRN-C-SYS-03,TRN-C,Ventilation,HVAC,D-MNT
+TRN-C-SYS-04,TRN-C,Water Treatment,Process Support,D-MNT
+TRN-D-SYS-01,TRN-D,Cooling Water,Cooling,D-ENG
+TRN-D-SYS-02,TRN-D,Electrical Distribution,Electrical,D-ENG
+TRN-D-SYS-03,TRN-D,Ventilation,HVAC,D-MNT
+TRN-D-SYS-04,TRN-D,Water Treatment,Process Support,D-MNT

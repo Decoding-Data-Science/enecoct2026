@@ -1,0 +1,83 @@
+NORTHSTAR PROCESS FACILITY                                                                  SYNTHETIC TRAINING CORPUS
+
+
+
+
+ A001-PRA-2026-09 / APPROVED
+
+
+ A-001 Reliability Project Risk Assessment
+ A-001 | Cooling Water Pump | Enterprise Asset Reliability Training Scenario
+  Document ID                    A001-PRA-2026-09                  Version                      1.0
+  Status                         APPROVED                          Effective / Issue Date       2026-09-07
+  Owner                          Reliability Project Office        Asset                        A-001
+  Location                       Utilities Area - Bay 3            Data Class                   Synthetic / Training
+
+
+ TRAINING NOTICE: This fictional document is designed only for AI/RAG, analytics and governance
+ training. It is not an engineering instruction and must not be used on real equipment.
+
+
+ 1. Assessment Purpose
+ This assessment summarizes delivery, evidence and coordination risks associated with the fictional A-001
+ reliability review project. It is intended for project prioritization and AI/RAG training, not for operational
+ decision-making.
+
+ 2. Project Context
+ The project was opened to coordinate condition review, document evidence, maintenance planning, vendor
+ support and data-quality checks after the August vibration trend and open work orders created a
+ cross-functional review need.
+
+ 3. Risk Register
+  Risk ID        Risk                                                      Likelihood        Impact            Current Rating
+  R-01           Inspection evidence remains incomplete                    Medium            High              High
+  R-02           Open work orders delay final review                       Medium            Medium            Medium
+  R-03           Draft procedure is mistaken for approved guidance         Low               High              High
+  R-04           Vendor response is later than project need date           Medium            Medium            Medium
+  R-05           Sensor quality issue creates misleading trend             Low               High              Medium
+  R-06           Cost estimate is treated as an approved budget            Low               Medium            Medium
+
+
+ 4. Key Controls
+  • Apply document authority metadata before final RAG context selection.
+  • Separate measured evidence, interpretation, financial estimate and approval status.
+  • Require named owners and due dates for unresolved evidence gaps.
+  • Keep the project risk rating distinct from equipment condition classification.
+
+
+
+
+A001-PRA-2026-09 | APPROVED | Synthetic training document - not for operational use
+                                                                                                                        Page 1
+NORTHSTAR PROCESS FACILITY                                                            SYNTHETIC TRAINING CORPUS
+
+
+
+
+ 5. Risk Ownership
+  Risk                                        Primary Owner                                Next Review
+  Evidence completeness                       Reliability Engineering                      2026-09-10
+  Work-order dependency                       Maintenance Planning                         2026-09-10
+  Document authority                          Reliability Governance Office                2026-09-09
+  Vendor lead time                            Procurement / Vendor Management              2026-09-11
+  Sensor quality                              IT / Data Engineering                        2026-09-09
+  Financial estimate                          Finance Business Partner                     2026-09-12
+
+
+ 6. Overall Assessment
+ The project risk profile is manageable if evidence gaps, document authority and dependency ownership remain
+ explicit. The highest governance risk is not the sensor trend itself; it is the possibility that incomplete or
+ non-authoritative information is treated as final.
+
+ 7. Evidence References
+  • A001-CMR-2026-08 - August condition monitoring report.
+  • WO-2026-0817 - open inspection work order.
+  • A001-PROC-INS-001-V2 - current approved inspection procedure.
+  • A001-DIR-2026-09 - detailed September inspection report.
+
+
+
+
+A001-PRA-2026-09 | APPROVED | Synthetic training document - not for operational use
+                                                                                                           Page 2
+

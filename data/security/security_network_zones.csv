@@ -1,0 +1,7 @@
+zone_id,zone_name,purdue_level,trust
+Z-L0,"Field devices (sensors, actuators)",Level 0,Internal only
+Z-L1,"Basic control (PLC, controllers)",Level 1,Internal only
+Z-L2,"Supervisory (HMI, SCADA)",Level 2,Restricted
+Z-L3,"Operations (historian, engineering workstation)",Level 3,Restricted
+Z-DMZ,"Industrial DMZ (remote access, data diode)",Level 3.5,Controlled external
+Z-L4,Enterprise IT,Level 4-5,External

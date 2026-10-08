@@ -1,0 +1,84 @@
+NORTHSTAR PROCESS FACILITY                                                                     SYNTHETIC TRAINING CORPUS
+
+
+
+
+ A001-XFR-2026-09 / DRAFT
+
+
+ A-001 Cross-Functional Risk Register -
+ Draft
+ A-001 | Cooling Water Pump | Enterprise Asset Reliability Training Scenario
+  Document ID                    A001-XFR-2026-09                 Version                         0.8-draft
+  Status                         DRAFT                            Effective / Issue Date          2026-09-11
+                                 Cross-Functional Review
+  Owner                                                           Asset                           A-001
+                                 Team
+  Location                       Utilities Area - Bay 3           Data Class                      Synthetic / Training
+
+
+ TRAINING NOTICE: This fictional document is designed only for AI/RAG, analytics and governance
+ training. It is not an engineering instruction and must not be used on real equipment.
+
+
+ 1. Draft Purpose
+ This draft consolidates reliability, maintenance, finance, IT and vendor risks into one working register for
+ discussion. Because the document is DRAFT, it must not replace approved source documents or be treated as
+ final authority.
+
+ 2. Consolidated Draft Risks
+  Area                   Draft Risk                                                Proposed Owner              Draft Priority
+  Reliability            Condition evidence remains incomplete                     Reliability                 High
+  Maintenance            Open work-order scope delays planning                     Maintenance                 High
+  Finance                Planning estimate is mistaken for approved funding        Finance                     Medium
+  IT / Data              Authority metadata is omitted during retrieval            IT / Data                   High
+  Vendor                 Indicative lead time is treated as committed delivery     Vendor Mgmt                 Medium
+  Governance             Draft content is surfaced as current guidance             Governance                  High
+
+
+ 3. Proposed Actions - Not Approved
+  • Create a single evidence checklist that references the approved inspection procedure.
+  • Require every RAG answer to expose document status and source date.
+  • Reconcile vendor and finance assumptions before schedule commitments.
+  • Close or explicitly transfer ownership of open risk items before project close-out.
+
+
+
+
+A001-XFR-2026-09 | DRAFT | Synthetic training document - not for operational use
+                                                                                                                         Page 1
+NORTHSTAR PROCESS FACILITY                                                           SYNTHETIC TRAINING CORPUS
+
+
+
+
+ 4. Authority Warning
+ This draft is intentionally designed for governance training. A retrieval system may rank this document highly
+ because it consolidates many relevant terms. However, its DRAFT status means it is not a substitute for
+ approved policy, procedure or signed functional assessments.
+
+ 5. Source Documents Referenced
+  Source                                                              Status
+  REL-POL-001                                                         APPROVED
+  A001-PROC-INS-001-V2                                                APPROVED
+  A001-DIR-2026-09                                                    APPROVED
+  A001-PRA-2026-09                                                    APPROVED
+  A001-FIN-2026-Q3                                                    APPROVED
+  A001-ITD-2026-09                                                    APPROVED
+  A001-VSR-2026-09                                                    APPROVED
+
+
+ 6. Draft Review Status
+  Role                                                           Review Status
+  Reliability                                                    Comments received
+  Maintenance                                                    Pending
+  Finance                                                        Comments received
+  IT / Data                                                      Pending
+  Vendor Management                                              Pending
+
+
+
+
+A001-XFR-2026-09 | DRAFT | Synthetic training document - not for operational use
+                                                                                                            Page 2
+

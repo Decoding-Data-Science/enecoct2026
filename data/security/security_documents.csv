@@ -1,0 +1,11 @@
+document_id,title,document_type,approval_status,version,effective_date,owner,asset_scope,package_path
+SEC-PROC-PATCH-001-V1,Plant Patch and Vulnerability Handling (superseded),PROCEDURE,SUPERSEDED,1.0,2024-03-01,Plant Cyber Security,ALL,documents/security/SEC-PROC-PATCH-001-V1_Superseded_Patch_Standard.md
+SEC-PROC-PATCH-001-V2,Plant Patch and Vulnerability Management Standard,PROCEDURE,APPROVED,2.0,2025-06-01,Plant Cyber Security,ALL,documents/security/SEC-PROC-PATCH-001-V2_Approved_Patch_Standard.md
+SEC-PROC-PATCH-001-V3D,Plant Patch and Vulnerability Management Standard (draft),PROCEDURE,DRAFT,3.0-DRAFT,,Plant Cyber Security,ALL,documents/security/SEC-PROC-PATCH-001-V3D_Draft_Patch_Standard.md
+SEC-POL-REMOTE-001,Remote and Vendor Access Policy,POLICY,APPROVED,1.2,2025-09-01,Plant Cyber Security,ALL,documents/security/SEC-POL-REMOTE-001_Remote_and_Vendor_Access_Policy.md
+SEC-PROC-INC-001,Security Incident Triage Runbook,PROCEDURE,APPROVED,1.0,2025-11-15,Plant Cyber Security,ALL,documents/security/SEC-PROC-INC-001_Security_Incident_Response_Runbook.md
+SEC-STD-ZONES-001,OT Network Segmentation and Zone Standard,STANDARD,APPROVED,1.1,2025-10-01,Plant Cyber Security,ALL,documents/security/SEC-STD-ZONES-001_OT_Network_Segmentation_and_Zone_Standard.md
+SEC-PROC-ACCESS-REVIEW-001,Privileged Access Review Procedure,PROCEDURE,APPROVED,1.0,2025-09-15,Plant Cyber Security,ALL,documents/security/SEC-PROC-ACCESS-REVIEW-001_Privileged_Access_Review_Procedure.md
+SEC-STD-DETECT-001,Detection Rule Catalogue and Tuning Rules,STANDARD,APPROVED,1.0,2025-12-01,Technical Security Services,ALL,documents/security/SEC-STD-DETECT-001_Detection_Rule_Catalogue_and_Tuning_Rules.md
+SEC-STD-CHANGE-001,OT Change Control and Ticketing Standard,STANDARD,APPROVED,2.0,2025-07-01,Head of Engineering,ALL,documents/security/SEC-STD-CHANGE-001_OT_Change_Control_and_Ticketing_Standard.md
+A001-SEC-2026-08,A-001 Security Posture Review - August 2026,POSTURE_REVIEW,APPROVED,1.0,2026-08-25,Plant Cyber Security,A-001,documents/security/A001-SEC-2026-08_A001_Security_Posture_Review.md

@@ -1,0 +1,129 @@
+asset_id,asset_name,system_name,unit_id,Asset_Criticality,health_score,risk_level,high_priority_open_work,Sensor_Anomalies_90d,Ops_Attention_Flag,Security_Risk_Level,Open_Security_Issues,Max_Open_CVSS,Patch_Status,Network_Exposure,Access_Risk_Flag,Security_Incident_Last_90_Days,Ops_Points,Security_Points,Priority_Score,Priority_Rank,Priority_Band
+A-001,Pump 001,Cooling Water,TRN-A,Critical,68.05,MEDIUM,3,23,Yes,High,3,8.2,Overdue,Restricted,Yes,Yes,40.0,92.0,97.8,1,P1 Immediate review
+A-065,Pump 065,Cooling Water,TRN-C,Critical,93.37,LOW,2,0,No,High,2,6.6,Overdue,Restricted,Yes,Yes,5.0,74.5,59.3,2,P2 Plan this month
+A-010,Motor 010,Electrical Distribution,TRN-A,Critical,92.61,LOW,0,0,No,High,3,9.0,Overdue,Restricted,Yes,No,0.0,77.8,56.1,3,P2 Plan this month
+A-040,Filter 040,Cooling Water,TRN-B,High,93.72,LOW,3,0,Yes,High,1,4.6,Overdue,External,Yes,Yes,7.5,78.1,56.0,4,P2 Plan this month
+A-033,Pump 033,Cooling Water,TRN-B,Critical,77.12,MEDIUM,1,0,Yes,Medium,1,4.4,Pending,Internal,No,No,21.4,23.7,53.7,5,P2 Plan this month
+A-110,Compressor 110,Electrical Distribution,TRN-D,Critical,95.11,LOW,1,0,No,High,2,7.1,Overdue,External,No,No,2.5,63.6,52.7,6,P2 Plan this month
+A-063,Transformer 063,Water Treatment,TRN-B,High,92.8,LOW,1,0,No,High,3,8.0,Overdue,Internal,Yes,Yes,2.5,79.6,52.1,7,P2 Plan this month
+A-017,Pump 017,Ventilation,TRN-A,High,93.41,LOW,2,0,No,High,2,6.8,Overdue,Restricted,Yes,No,5.0,65.0,48.5,8,P2 Plan this month
+A-121,Pump 121,Water Treatment,TRN-D,High,93.77,LOW,1,0,No,High,2,8.7,Overdue,Restricted,Yes,No,2.5,69.1,47.9,9,P2 Plan this month
+A-109,Fan 109,Electrical Distribution,TRN-D,High,95.36,LOW,3,0,Yes,High,2,8.8,Overdue,Restricted,No,No,7.5,57.4,47.7,10,P2 Plan this month
+A-055,Transformer 055,Ventilation,TRN-B,Medium,92.83,LOW,4,0,Yes,High,2,7.8,Overdue,Restricted,Yes,No,10.0,73.2,47.3,11,P2 Plan this month
+A-038,Compressor 038,Cooling Water,TRN-B,Medium,95.12,LOW,4,0,Yes,High,2,7.1,Overdue,Restricted,Yes,No,10.0,71.6,46.6,12,P2 Plan this month
+A-094,Compressor 094,Water Treatment,TRN-C,High,92.15,LOW,1,0,No,High,2,7.1,Pending,Restricted,Yes,Yes,2.5,65.6,46.5,13,P2 Plan this month
+A-097,Pump 097,Cooling Water,TRN-D,Critical,93.36,LOW,2,0,No,Medium,1,7.1,Overdue,Internal,No,No,5.0,39.6,45.3,14,P2 Plan this month
+A-012,Heat Exchanger 012,Electrical Distribution,TRN-A,High,92.19,LOW,1,0,No,High,1,4.5,Overdue,External,Yes,No,2.5,61.9,45.0,15,P2 Plan this month
+A-002,Motor 002,Cooling Water,TRN-A,Critical,93.81,LOW,2,0,No,Medium,1,5.4,Pending,Internal,Yes,No,5.0,37.9,44.7,16,P3 Routine
+A-098,Motor 098,Cooling Water,TRN-D,Critical,92.8,LOW,0,0,No,High,1,8.2,Overdue,Restricted,No,No,0.0,48.0,44.2,17,P3 Routine
+A-030,Compressor 030,Water Treatment,TRN-A,Medium,94.48,LOW,1,0,No,High,3,8.1,Overdue,Restricted,Yes,No,2.5,81.8,44.0,18,P3 Routine
+A-112,Filter 112,Electrical Distribution,TRN-D,Medium,92.69,LOW,3,0,Yes,High,2,6.5,Pending,External,Yes,No,7.5,70.3,43.9,19,P3 Routine
+A-008,Filter 008,Cooling Water,TRN-A,High,93.3,LOW,1,0,No,High,2,6.7,Overdue,Internal,Yes,No,2.5,58.7,43.7,20,P3 Routine
+A-128,Filter 128,Water Treatment,TRN-D,High,94.17,LOW,2,0,No,High,2,8.5,Pending,Internal,Yes,No,5.0,52.7,43.6,21,P3 Routine
+A-070,Compressor 070,Cooling Water,TRN-C,Critical,92.16,LOW,1,0,No,Medium,1,6.7,Overdue,Internal,No,No,2.5,38.7,42.7,22,P3 Routine
+A-115,Valve 115,Ventilation,TRN-D,High,93.47,LOW,3,0,Yes,Medium,1,6.5,Pending,Internal,Yes,No,7.5,40.3,40.9,23,P3 Routine
+A-102,Compressor 102,Cooling Water,TRN-D,Critical,94.6,LOW,0,0,No,Medium,2,7.2,Pending,Internal,No,No,0.0,37.8,40.1,24,P3 Routine
+A-058,Motor 058,Water Treatment,TRN-B,High,94.17,LOW,1,0,No,High,1,6.8,Overdue,Internal,No,Yes,2.5,49.0,39.8,25,P3 Routine
+A-113,Pump 113,Ventilation,TRN-D,Medium,93.55,LOW,3,0,Yes,High,2,7.1,Overdue,Internal,Yes,No,7.5,59.6,39.6,26,P3 Routine
+A-042,Motor 042,Electrical Distribution,TRN-B,Medium,93.57,LOW,1,0,No,High,1,6.7,Overdue,External,No,Yes,2.5,70.7,39.5,27,P3 Routine
+A-122,Motor 122,Water Treatment,TRN-D,High,94.42,LOW,0,0,No,High,2,6.0,Overdue,Restricted,No,No,0.0,51.2,38.5,28,P3 Routine
+A-041,Pump 041,Electrical Distribution,TRN-B,Critical,95.76,LOW,1,0,No,Medium,1,5.7,Pending,Internal,No,No,2.5,26.5,37.8,29,P3 Routine
+A-037,Fan 037,Cooling Water,TRN-B,High,94.68,LOW,1,0,No,Medium,1,8.2,Overdue,Internal,No,No,2.5,42.0,37.0,30,P3 Routine
+A-125,Fan 125,Water Treatment,TRN-D,Medium,92.69,LOW,2,0,No,High,1,7.4,Overdue,Internal,Yes,No,5.0,58.3,36.8,31,P3 Routine
+A-034,Motor 034,Cooling Water,TRN-B,Medium,95.05,LOW,2,0,No,High,1,7.2,Overdue,Internal,Yes,No,5.0,57.8,36.6,32,P3 Routine
+A-026,Motor 026,Water Treatment,TRN-A,Medium,92.24,LOW,1,0,No,High,1,5.1,Overdue,Internal,Yes,Yes,2.5,63.2,36.5,33,P3 Routine
+A-050,Motor 050,Ventilation,TRN-B,High,95.63,LOW,0,0,No,High,1,4.1,Pending,Internal,Yes,Yes,0.0,45.0,36.0,34,P3 Routine
+A-062,Compressor 062,Water Treatment,TRN-B,High,95.97,LOW,0,0,No,Medium,1,4.0,Pending,Internal,Yes,Yes,0.0,44.8,35.9,35,P3 Routine
+A-078,Compressor 078,Electrical Distribution,TRN-C,Medium,94.0,LOW,1,0,No,High,2,7.0,Pending,Restricted,Yes,No,2.5,61.4,35.8,36,P3 Routine
+A-044,Heat Exchanger 044,Electrical Distribution,TRN-B,High,92.13,LOW,1,0,No,Medium,0,0.0,Current,External,Yes,Yes,2.5,38.0,35.4,37,P3 Routine
+A-023,Transformer 023,Ventilation,TRN-A,Medium,94.01,LOW,1,0,No,High,1,8.2,Pending,External,Yes,No,2.5,60.0,35.2,38,P3 Routine
+A-073,Pump 073,Electrical Distribution,TRN-C,Medium,94.62,LOW,1,0,No,High,1,8.0,Overdue,Internal,Yes,No,2.5,59.6,35.1,39,P3 Routine
+A-105,Pump 105,Electrical Distribution,TRN-D,Medium,94.37,LOW,2,0,No,High,1,8.1,Overdue,Internal,Yes,No,5.0,53.8,35.0,40,P3 Routine
+A-031,Transformer 031,Water Treatment,TRN-A,Medium,93.37,LOW,2,0,No,High,1,4.6,Overdue,Restricted,Yes,No,5.0,52.1,34.3,41,P3 Routine
+A-052,Heat Exchanger 052,Ventilation,TRN-B,High,95.83,LOW,1,0,No,Medium,1,4.0,Pending,Internal,Yes,No,2.5,34.8,34.2,42,P3 Routine
+A-046,Compressor 046,Electrical Distribution,TRN-B,Medium,94.43,LOW,1,0,No,High,2,8.6,Overdue,Internal,No,No,2.5,56.9,34.0,43,P3 Routine
+A-057,Pump 057,Water Treatment,TRN-B,Medium,95.45,LOW,0,0,No,High,2,7.7,Overdue,Restricted,No,No,0.0,60.9,33.4,44,P3 Routine
+A-067,Valve 067,Cooling Water,TRN-C,Medium,93.87,LOW,1,0,No,High,1,5.6,Overdue,Internal,Yes,No,2.5,54.3,33.0,45,P3 Routine
+A-079,Transformer 079,Electrical Distribution,TRN-C,Medium,95.8,LOW,1,0,No,High,1,8.0,Pending,Internal,Yes,Yes,2.5,53.6,32.7,46,P3 Routine
+A-051,Valve 051,Ventilation,TRN-B,Medium,94.43,LOW,1,0,No,High,1,7.6,Overdue,Internal,Yes,No,2.5,52.7,32.3,47,P3 Routine
+A-087,Transformer 087,Ventilation,TRN-C,Medium,94.67,LOW,0,0,No,High,2,7.1,Overdue,Internal,No,Yes,0.0,57.6,32.0,48,P3 Routine
+A-027,Valve 027,Water Treatment,TRN-A,Medium,94.79,LOW,1,0,No,High,1,4.5,Overdue,Internal,Yes,No,2.5,51.9,32.0,48,P3 Routine
+A-007,Transformer 007,Cooling Water,TRN-A,Medium,93.38,LOW,1,0,No,High,1,5.8,Pending,Restricted,Yes,No,2.5,50.8,31.6,50,P3 Routine
+A-029,Fan 029,Water Treatment,TRN-A,Medium,93.6,LOW,1,0,No,High,1,3.7,Pending,Internal,Yes,Yes,2.5,50.1,31.3,51,P3 Routine
+A-114,Motor 114,Ventilation,TRN-D,Medium,95.56,LOW,1,0,No,High,1,8.1,Overdue,Internal,No,No,2.5,47.8,30.4,52,P3 Routine
+A-049,Pump 049,Ventilation,TRN-B,Low,95.48,LOW,1,0,No,High,1,6.8,Pending,External,Yes,No,2.5,63.0,30.4,52,P3 Routine
+A-104,Filter 104,Cooling Water,TRN-D,Low,94.69,LOW,6,0,Yes,High,1,7.0,Overdue,Internal,No,No,10.0,45.4,30.2,54,P3 Routine
+A-053,Fan 053,Ventilation,TRN-B,Medium,93.45,LOW,0,0,No,High,1,7.4,Pending,Internal,Yes,Yes,0.0,52.3,29.9,55,P3 Routine
+A-006,Compressor 006,Cooling Water,TRN-A,Critical,94.83,LOW,0,0,No,Low,0,0.0,Current,Internal,Yes,No,0.0,12.0,29.8,56,P3 Routine
+A-077,Fan 077,Electrical Distribution,TRN-C,Medium,95.24,LOW,1,0,No,High,1,7.4,Overdue,Restricted,No,No,2.5,46.3,29.8,56,P3 Routine
+A-024,Filter 024,Ventilation,TRN-A,High,95.36,LOW,3,0,Yes,Low,0,0.0,Current,Internal,Yes,No,7.5,12.0,29.6,58,P3 Routine
+A-089,Pump 089,Water Treatment,TRN-C,High,93.82,LOW,0,0,No,Medium,1,6.3,Pending,Internal,No,No,0.0,27.9,29.2,59,P3 Routine
+A-018,Motor 018,Ventilation,TRN-A,Medium,94.33,LOW,0,0,No,High,2,8.3,Overdue,Internal,No,No,0.0,50.3,29.1,60,P3 Routine
+A-032,Filter 032,Water Treatment,TRN-A,Low,94.65,LOW,3,0,Yes,High,1,4.3,Pending,Restricted,Yes,No,7.5,47.5,28.8,61,P3 Routine
+A-075,Valve 075,Electrical Distribution,TRN-C,Medium,93.91,LOW,1,0,No,Medium,1,5.7,Overdue,Internal,No,No,2.5,42.5,28.2,62,P3 Routine
+A-082,Motor 082,Ventilation,TRN-C,High,94.61,LOW,2,0,No,Low,0,0.0,Current,Internal,Yes,No,5.0,12.0,27.3,63,P3 Routine
+A-088,Filter 088,Ventilation,TRN-C,Medium,95.02,LOW,2,0,No,Medium,1,4.8,Overdue,Internal,No,No,5.0,34.6,27.3,63,P3 Routine
+A-093,Fan 093,Water Treatment,TRN-C,Medium,94.05,LOW,1,0,No,Medium,1,6.1,Pending,Internal,Yes,No,2.5,39.4,27.0,65,P3 Routine
+A-011,Valve 011,Electrical Distribution,TRN-A,Medium,92.71,LOW,1,0,No,Medium,1,5.5,Overdue,Internal,No,No,2.5,36.1,25.7,66,P3 Routine
+A-116,Heat Exchanger 116,Ventilation,TRN-D,Medium,92.81,LOW,1,0,No,Medium,1,4.9,Pending,Internal,No,Yes,2.5,34.8,25.2,67,P3 Routine
+A-081,Pump 081,Ventilation,TRN-C,Medium,94.84,LOW,0,0,No,Medium,2,5.6,Pending,Restricted,No,No,0.0,40.3,25.1,68,P3 Routine
+A-091,Valve 091,Water Treatment,TRN-C,High,94.49,LOW,1,0,No,Low,0,0.0,Current,Internal,Yes,No,2.5,12.0,25.0,69,P3 Routine
+A-014,Compressor 014,Electrical Distribution,TRN-A,Medium,95.39,LOW,1,0,No,Medium,0,0.0,Current,Restricted,Yes,Yes,2.5,34.0,24.8,70,P3 Routine
+A-039,Transformer 039,Cooling Water,TRN-B,Medium,94.68,LOW,2,0,No,Medium,0,0.0,Current,Restricted,Yes,Yes,5.0,28.0,24.7,71,P3 Routine
+A-069,Fan 069,Cooling Water,TRN-C,Low,93.73,LOW,0,0,No,High,1,5.3,Overdue,Internal,Yes,No,0.0,53.7,24.5,72,P3 Routine
+A-080,Filter 080,Electrical Distribution,TRN-C,Low,93.79,LOW,0,0,No,High,1,7.9,Pending,External,No,No,0.0,53.4,24.4,73,P3 Routine
+A-009,Pump 009,Electrical Distribution,TRN-A,Low,93.55,LOW,0,0,No,High,1,6.8,Pending,Restricted,Yes,No,0.0,53.0,24.2,74,P3 Routine
+A-126,Compressor 126,Water Treatment,TRN-D,Low,93.33,LOW,1,0,No,High,1,7.7,Overdue,Internal,No,No,2.5,46.9,24.0,75,P3 Routine
+A-045,Fan 045,Electrical Distribution,TRN-B,Medium,94.42,LOW,0,0,No,Medium,1,8.0,Pending,Internal,No,No,0.0,37.6,24.0,75,P3 Routine
+A-005,Fan 005,Cooling Water,TRN-A,Low,94.03,LOW,1,0,No,High,1,4.7,Pending,Restricted,No,Yes,2.5,46.3,23.8,77,P3 Routine
+A-124,Heat Exchanger 124,Water Treatment,TRN-D,Low,95.42,LOW,1,0,No,High,1,7.0,Overdue,Internal,No,No,2.5,45.4,23.4,78,P3 Routine
+A-099,Valve 099,Cooling Water,TRN-D,Medium,93.75,LOW,2,0,No,Medium,0,0.0,Current,Restricted,Yes,No,5.0,24.0,23.1,79,P3 Routine
+A-111,Transformer 111,Electrical Distribution,TRN-D,Medium,95.77,LOW,3,0,Yes,Low,0,0.0,Current,Internal,Yes,No,7.5,18.0,23.0,80,P3 Routine
+A-092,Heat Exchanger 092,Water Treatment,TRN-C,High,94.62,LOW,0,0,No,Low,0,0.0,Current,Internal,Yes,No,0.0,12.0,22.8,81,P3 Routine
+A-103,Transformer 103,Cooling Water,TRN-D,Medium,95.73,LOW,1,0,No,Medium,0,0.0,Current,Restricted,Yes,Yes,2.5,28.0,22.5,82,P3 Routine
+A-090,Motor 090,Water Treatment,TRN-C,Medium,93.85,LOW,2,0,No,Low,0,0.0,Current,Internal,Yes,No,5.0,18.0,20.7,83,P3 Routine
+A-025,Pump 025,Water Treatment,TRN-A,Medium,94.6,LOW,2,0,No,Low,0,0.0,Current,Restricted,Yes,No,5.0,18.0,20.7,83,P3 Routine
+A-107,Valve 107,Electrical Distribution,TRN-D,Medium,95.05,LOW,3,0,Yes,Low,0,0.0,Current,Internal,Yes,No,7.5,12.0,20.6,85,P3 Routine
+A-036,Heat Exchanger 036,Cooling Water,TRN-B,High,94.59,LOW,0,0,No,Low,0,0.0,Current,Internal,No,No,0.0,6.0,20.4,86,P3 Routine
+A-071,Transformer 071,Cooling Water,TRN-C,Low,93.93,LOW,0,0,No,Medium,2,5.2,Overdue,Internal,No,No,0.0,43.4,20.4,86,P3 Routine
+A-086,Compressor 086,Ventilation,TRN-C,High,94.85,LOW,0,0,No,Low,0,0.0,Current,Restricted,No,No,0.0,6.0,20.4,86,P3 Routine
+A-100,Heat Exchanger 100,Cooling Water,TRN-D,Medium,92.77,LOW,1,0,No,Medium,0,0.0,Current,Internal,Yes,Yes,2.5,22.0,20.0,89,P3 Routine
+A-106,Motor 106,Electrical Distribution,TRN-D,Medium,92.16,LOW,1,0,No,Medium,0,0.0,Current,External,No,No,2.5,22.0,20.0,89,P3 Routine
+A-048,Filter 048,Electrical Distribution,TRN-B,Low,95.11,LOW,0,0,No,Medium,1,6.8,Pending,Internal,Yes,No,0.0,41.0,19.4,91,P3 Routine
+A-035,Valve 035,Cooling Water,TRN-B,Medium,92.33,LOW,1,0,No,Low,0,0.0,Current,Internal,Yes,No,2.5,18.0,18.4,92,P3 Routine
+A-108,Heat Exchanger 108,Electrical Distribution,TRN-D,Medium,94.18,LOW,1,0,No,Low,0,0.0,Current,Internal,Yes,No,2.5,18.0,18.4,92,P3 Routine
+A-076,Heat Exchanger 076,Electrical Distribution,TRN-C,Medium,93.23,LOW,2,0,No,Low,0,0.0,Current,Internal,Yes,No,5.0,12.0,18.3,94,P3 Routine
+A-096,Filter 096,Water Treatment,TRN-C,Medium,95.92,LOW,3,0,Yes,Low,0,0.0,Current,Internal,No,No,7.5,6.0,18.2,95,P3 Routine
+A-021,Fan 021,Ventilation,TRN-A,Medium,92.48,LOW,3,0,Yes,Low,0,0.0,Current,Internal,No,No,7.5,6.0,18.2,95,P3 Routine
+A-022,Compressor 022,Ventilation,TRN-A,High,95.26,LOW,0,0,No,Low,0,0.0,Current,Internal,No,No,0.0,0.0,18.0,97,P3 Routine
+A-013,Fan 013,Electrical Distribution,TRN-A,Low,92.55,LOW,1,0,No,Medium,1,4.4,Pending,Internal,No,No,2.5,29.7,17.1,98,P3 Routine
+A-064,Filter 064,Water Treatment,TRN-B,Medium,92.05,LOW,1,0,No,Low,0,0.0,Current,Internal,Yes,No,2.5,12.0,16.0,99,P3 Routine
+A-120,Filter 120,Ventilation,TRN-D,Medium,93.64,LOW,3,0,Yes,Low,0,0.0,Current,Internal,No,No,7.5,0.0,15.8,100,P3 Routine
+A-016,Filter 016,Electrical Distribution,TRN-A,Low,93.35,LOW,1,0,No,Medium,0,0.0,Current,Restricted,Yes,No,2.5,24.0,14.8,101,P3 Routine
+A-068,Heat Exchanger 068,Cooling Water,TRN-C,Low,92.43,LOW,2,0,No,Low,0,0.0,Current,Internal,Yes,No,5.0,18.0,14.7,102,P3 Routine
+A-118,Compressor 118,Ventilation,TRN-D,Low,92.23,LOW,1,0,No,Medium,0,0.0,Current,Internal,Yes,Yes,2.5,22.0,14.0,103,P3 Routine
+A-119,Transformer 119,Ventilation,TRN-D,Low,94.97,LOW,1,0,No,Medium,0,0.0,Current,Restricted,No,Yes,2.5,22.0,14.0,103,P3 Routine
+A-059,Valve 059,Water Treatment,TRN-B,Low,93.78,LOW,1,0,No,Medium,0,0.0,Current,Internal,Yes,Yes,2.5,22.0,14.0,103,P3 Routine
+A-061,Fan 061,Water Treatment,TRN-B,Medium,95.34,LOW,1,0,No,Low,0,0.0,Current,Internal,No,No,2.5,6.0,13.6,106,P3 Routine
+A-003,Valve 003,Cooling Water,TRN-A,Medium,92.03,LOW,1,0,No,Low,0,0.0,Current,Internal,No,No,2.5,6.0,13.6,106,P3 Routine
+A-028,Heat Exchanger 028,Water Treatment,TRN-A,Medium,93.06,LOW,1,0,No,Low,0,0.0,Current,Internal,No,No,2.5,6.0,13.6,106,P3 Routine
+A-074,Motor 074,Electrical Distribution,TRN-C,Medium,92.97,LOW,1,0,No,Low,0,0.0,Current,Internal,No,No,2.5,6.0,13.6,106,P3 Routine
+A-085,Fan 085,Ventilation,TRN-C,Medium,92.06,LOW,1,0,No,Low,0,0.0,Current,Internal,No,No,2.5,6.0,13.6,106,P3 Routine
+A-127,Transformer 127,Water Treatment,TRN-D,Medium,92.75,LOW,2,0,No,Low,0,0.0,Current,Internal,No,No,5.0,0.0,13.5,111,P3 Routine
+A-066,Motor 066,Cooling Water,TRN-C,Medium,94.43,LOW,2,0,No,Low,0,0.0,Current,Internal,No,No,5.0,0.0,13.5,111,P3 Routine
+A-083,Valve 083,Ventilation,TRN-C,Medium,93.85,LOW,2,0,No,Low,0,0.0,Current,Internal,No,No,5.0,0.0,13.5,111,P3 Routine
+A-117,Fan 117,Ventilation,TRN-D,Medium,92.06,LOW,2,0,No,Low,0,0.0,Current,Internal,No,No,5.0,0.0,13.5,111,P3 Routine
+A-020,Heat Exchanger 020,Ventilation,TRN-A,Low,95.12,LOW,1,0,No,Low,0,0.0,Current,Internal,Yes,No,2.5,18.0,12.4,115,P3 Routine
+A-054,Compressor 054,Ventilation,TRN-B,Low,93.28,LOW,2,0,No,Low,0,0.0,Current,Internal,Yes,No,5.0,12.0,12.3,116,P3 Routine
+A-019,Valve 019,Ventilation,TRN-A,Medium,92.52,LOW,1,0,No,Low,0,0.0,Current,Internal,No,No,2.5,0.0,11.2,117,P3 Routine
+A-095,Transformer 095,Water Treatment,TRN-C,Medium,93.7,LOW,1,0,No,Low,0,0.0,Current,Internal,No,No,2.5,0.0,11.2,117,P3 Routine
+A-043,Valve 043,Electrical Distribution,TRN-B,Low,95.4,LOW,0,0,No,Low,0,0.0,Current,Internal,Yes,No,0.0,18.0,10.2,119,P3 Routine
+A-060,Heat Exchanger 060,Water Treatment,TRN-B,Low,95.81,LOW,1,0,No,Low,0,0.0,Current,Internal,Yes,No,2.5,12.0,10.0,120,P3 Routine
+A-072,Filter 072,Cooling Water,TRN-C,Low,94.33,LOW,2,0,No,Low,0,0.0,Current,Internal,No,No,5.0,6.0,9.9,121,P3 Routine
+A-056,Filter 056,Ventilation,TRN-B,Medium,95.01,LOW,0,0,No,Low,0,0.0,Current,Internal,No,No,0.0,0.0,9.0,122,P3 Routine
+A-015,Transformer 015,Electrical Distribution,TRN-A,Low,93.58,LOW,1,0,No,Low,0,0.0,Current,Internal,No,No,2.5,6.0,7.6,123,P3 Routine
+A-084,Heat Exchanger 084,Ventilation,TRN-C,Low,94.49,LOW,1,0,No,Low,0,0.0,Current,Internal,No,No,2.5,6.0,7.6,123,P3 Routine
+A-101,Fan 101,Cooling Water,TRN-D,Low,93.41,LOW,1,0,No,Low,0,0.0,Current,Internal,No,No,2.5,6.0,7.6,123,P3 Routine
+A-047,Transformer 047,Electrical Distribution,TRN-B,Low,92.8,LOW,0,0,No,Low,0,0.0,Current,Restricted,No,No,0.0,6.0,5.4,126,P3 Routine
+A-004,Heat Exchanger 004,Cooling Water,TRN-A,Low,93.84,LOW,0,0,No,Low,0,0.0,Current,Internal,No,No,0.0,0.0,3.0,127,P3 Routine
+A-123,Valve 123,Water Treatment,TRN-D,Low,95.93,LOW,0,0,No,Low,0,0.0,Current,Internal,No,No,0.0,0.0,3.0,127,P3 Routine

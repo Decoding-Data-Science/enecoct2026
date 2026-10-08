@@ -1,0 +1,129 @@
+asset_id,asset_name,asset_type,criticality,status,system_name,unit_id,health_score,risk_level,recommended_action,open_work_orders,high_priority_open_work,follow_up_findings,latest_inspection_date,Asset_Criticality,Security_Risk_Level,Last_Security_Review_Date,Open_Security_Issues,Access_Risk_Flag,Patch_Status,Network_Exposure,Security_Incident_Last_90_Days
+A-001,Pump 001,Pump,HIGH,IN_SERVICE,Cooling Water,TRN-A,68.05,MEDIUM,Increase monitoring,6,3,2,2026-08-23,Critical,High,2026-01-23,3,Yes,Overdue,Restricted,Yes
+A-002,Motor 002,Motor,HIGH,IN_SERVICE,Cooling Water,TRN-A,93.81,LOW,Continue routine monitoring,5,2,3,2026-07-19,Critical,Medium,2026-07-29,1,Yes,Pending,Internal,No
+A-003,Valve 003,Valve,MEDIUM,IN_SERVICE,Cooling Water,TRN-A,92.03,LOW,Continue routine monitoring,5,1,4,2026-08-06,Medium,Low,2025-12-01,0,No,Current,Internal,No
+A-004,Heat Exchanger 004,Heat Exchanger,LOW,IN_SERVICE,Cooling Water,TRN-A,93.84,LOW,Continue routine monitoring,5,0,3,2026-01-18,Low,Low,2026-03-18,0,No,Current,Internal,No
+A-005,Fan 005,Fan,LOW,IN_SERVICE,Cooling Water,TRN-A,94.03,LOW,Continue routine monitoring,3,1,1,2025-09-11,Low,High,2025-12-08,1,No,Pending,Restricted,Yes
+A-006,Compressor 006,Compressor,HIGH,IN_SERVICE,Cooling Water,TRN-A,94.83,LOW,Continue routine monitoring,7,0,2,2026-08-06,Critical,Low,2026-05-21,0,Yes,Current,Internal,No
+A-007,Transformer 007,Transformer,MEDIUM,IN_SERVICE,Cooling Water,TRN-A,93.38,LOW,Continue routine monitoring,5,1,3,2026-07-03,Medium,High,2026-02-09,1,Yes,Pending,Restricted,No
+A-008,Filter 008,Filter,HIGH,IN_SERVICE,Cooling Water,TRN-A,93.3,LOW,Continue routine monitoring,1,1,0,,High,High,2026-06-09,2,Yes,Overdue,Internal,No
+A-009,Pump 009,Pump,LOW,IN_SERVICE,Electrical Distribution,TRN-A,93.55,LOW,Continue routine monitoring,1,0,1,2026-05-21,Low,High,2025-06-28,1,Yes,Pending,Restricted,No
+A-010,Motor 010,Motor,HIGH,IN_SERVICE,Electrical Distribution,TRN-A,92.61,LOW,Continue routine monitoring,2,0,2,2026-02-23,Critical,High,2026-06-07,3,Yes,Overdue,Restricted,No
+A-011,Valve 011,Valve,MEDIUM,IN_SERVICE,Electrical Distribution,TRN-A,92.71,LOW,Continue routine monitoring,2,1,1,2026-06-29,Medium,Medium,2026-05-13,1,No,Overdue,Internal,No
+A-012,Heat Exchanger 012,Heat Exchanger,HIGH,IN_SERVICE,Electrical Distribution,TRN-A,92.19,LOW,Continue routine monitoring,6,1,1,2026-02-06,High,High,2026-07-27,1,Yes,Overdue,External,No
+A-013,Fan 013,Fan,LOW,IN_SERVICE,Electrical Distribution,TRN-A,92.55,LOW,Continue routine monitoring,7,1,0,,Low,Medium,2025-09-25,1,No,Pending,Internal,No
+A-014,Compressor 014,Compressor,MEDIUM,IN_SERVICE,Electrical Distribution,TRN-A,95.39,LOW,Continue routine monitoring,1,1,3,2026-06-09,Medium,Medium,2026-02-19,0,Yes,Current,Restricted,Yes
+A-015,Transformer 015,Transformer,LOW,IN_SERVICE,Electrical Distribution,TRN-A,93.58,LOW,Continue routine monitoring,2,1,1,2026-08-03,Low,Low,2025-06-12,0,No,Current,Internal,No
+A-016,Filter 016,Filter,LOW,IN_SERVICE,Electrical Distribution,TRN-A,93.35,LOW,Continue routine monitoring,4,1,1,2026-06-07,Low,Medium,2025-11-27,0,Yes,Current,Restricted,No
+A-017,Pump 017,Pump,HIGH,IN_SERVICE,Ventilation,TRN-A,93.41,LOW,Continue routine monitoring,7,2,1,2026-04-04,High,High,2026-06-19,2,Yes,Overdue,Restricted,No
+A-018,Motor 018,Motor,MEDIUM,MAINTENANCE,Ventilation,TRN-A,94.33,LOW,Continue routine monitoring,3,0,2,2026-07-14,Medium,High,2026-03-31,2,No,Overdue,Internal,No
+A-019,Valve 019,Valve,MEDIUM,IN_SERVICE,Ventilation,TRN-A,92.52,LOW,Continue routine monitoring,4,1,0,,Medium,Low,2026-03-21,0,No,Current,Internal,No
+A-020,Heat Exchanger 020,Heat Exchanger,LOW,IN_SERVICE,Ventilation,TRN-A,95.12,LOW,Continue routine monitoring,2,1,0,,Low,Low,2026-02-12,0,Yes,Current,Internal,No
+A-021,Fan 021,Fan,MEDIUM,MONITOR,Ventilation,TRN-A,92.48,LOW,Continue routine monitoring,7,3,0,,Medium,Low,2026-01-16,0,No,Current,Internal,No
+A-022,Compressor 022,Compressor,HIGH,IN_SERVICE,Ventilation,TRN-A,95.26,LOW,Continue routine monitoring,4,0,0,,High,Low,2026-05-10,0,No,Current,Internal,No
+A-023,Transformer 023,Transformer,MEDIUM,IN_SERVICE,Ventilation,TRN-A,94.01,LOW,Continue routine monitoring,3,1,4,2026-06-13,Medium,High,2026-06-28,1,Yes,Pending,External,No
+A-024,Filter 024,Filter,HIGH,IN_SERVICE,Ventilation,TRN-A,95.36,LOW,Continue routine monitoring,3,3,1,2026-02-15,High,Low,2026-04-21,0,Yes,Current,Internal,No
+A-025,Pump 025,Pump,MEDIUM,IN_SERVICE,Water Treatment,TRN-A,94.6,LOW,Continue routine monitoring,5,2,0,,Medium,Low,2026-03-28,0,Yes,Current,Restricted,No
+A-026,Motor 026,Motor,MEDIUM,IN_SERVICE,Water Treatment,TRN-A,92.24,LOW,Continue routine monitoring,1,1,2,2026-01-09,Medium,High,2025-11-13,1,Yes,Overdue,Internal,Yes
+A-027,Valve 027,Valve,MEDIUM,MONITOR,Water Treatment,TRN-A,94.79,LOW,Continue routine monitoring,3,1,0,,Medium,High,2025-11-16,1,Yes,Overdue,Internal,No
+A-028,Heat Exchanger 028,Heat Exchanger,MEDIUM,IN_SERVICE,Water Treatment,TRN-A,93.06,LOW,Continue routine monitoring,4,1,1,2026-02-24,Medium,Low,2025-10-25,0,No,Current,Internal,No
+A-029,Fan 029,Fan,MEDIUM,IN_SERVICE,Water Treatment,TRN-A,93.6,LOW,Continue routine monitoring,5,1,1,2025-10-28,Medium,High,2025-12-22,1,Yes,Pending,Internal,Yes
+A-030,Compressor 030,Compressor,MEDIUM,IN_SERVICE,Water Treatment,TRN-A,94.48,LOW,Continue routine monitoring,4,1,1,2026-01-30,Medium,High,2025-11-20,3,Yes,Overdue,Restricted,No
+A-031,Transformer 031,Transformer,MEDIUM,IN_SERVICE,Water Treatment,TRN-A,93.37,LOW,Continue routine monitoring,3,2,1,2026-06-09,Medium,High,2026-06-17,1,Yes,Overdue,Restricted,No
+A-032,Filter 032,Filter,LOW,MONITOR,Water Treatment,TRN-A,94.65,LOW,Continue routine monitoring,5,3,1,2026-06-15,Low,High,2025-12-24,1,Yes,Pending,Restricted,No
+A-033,Pump 033,Pump,HIGH,IN_SERVICE,Cooling Water,TRN-B,77.12,MEDIUM,Increase monitoring,3,1,2,2026-02-07,Critical,Medium,2026-06-24,1,No,Pending,Internal,No
+A-034,Motor 034,Motor,MEDIUM,IN_SERVICE,Cooling Water,TRN-B,95.05,LOW,Continue routine monitoring,5,2,1,2025-11-21,Medium,High,2026-01-22,1,Yes,Overdue,Internal,No
+A-035,Valve 035,Valve,MEDIUM,IN_SERVICE,Cooling Water,TRN-B,92.33,LOW,Continue routine monitoring,5,1,3,2026-06-21,Medium,Low,2025-10-28,0,Yes,Current,Internal,No
+A-036,Heat Exchanger 036,Heat Exchanger,HIGH,IN_SERVICE,Cooling Water,TRN-B,94.59,LOW,Continue routine monitoring,1,0,2,2026-01-09,High,Low,2026-02-21,0,No,Current,Internal,No
+A-037,Fan 037,Fan,HIGH,MONITOR,Cooling Water,TRN-B,94.68,LOW,Continue routine monitoring,7,1,1,2025-10-26,High,Medium,2026-07-07,1,No,Overdue,Internal,No
+A-038,Compressor 038,Compressor,MEDIUM,IN_SERVICE,Cooling Water,TRN-B,95.12,LOW,Continue routine monitoring,12,4,4,2026-05-17,Medium,High,2026-01-23,2,Yes,Overdue,Restricted,No
+A-039,Transformer 039,Transformer,MEDIUM,IN_SERVICE,Cooling Water,TRN-B,94.68,LOW,Continue routine monitoring,4,2,2,2025-09-29,Medium,Medium,2026-05-18,0,Yes,Current,Restricted,Yes
+A-040,Filter 040,Filter,HIGH,IN_SERVICE,Cooling Water,TRN-B,93.72,LOW,Continue routine monitoring,9,3,3,2026-05-13,High,High,2026-02-07,1,Yes,Overdue,External,Yes
+A-041,Pump 041,Pump,HIGH,IN_SERVICE,Electrical Distribution,TRN-B,95.76,LOW,Continue routine monitoring,3,1,3,2026-04-25,Critical,Medium,2026-06-30,1,No,Pending,Internal,No
+A-042,Motor 042,Motor,MEDIUM,IN_SERVICE,Electrical Distribution,TRN-B,93.57,LOW,Continue routine monitoring,3,1,1,2026-05-17,Medium,High,2025-10-13,1,No,Overdue,External,Yes
+A-043,Valve 043,Valve,LOW,IN_SERVICE,Electrical Distribution,TRN-B,95.4,LOW,Continue routine monitoring,3,0,0,,Low,Low,2025-11-26,0,Yes,Current,Internal,No
+A-044,Heat Exchanger 044,Heat Exchanger,HIGH,MAINTENANCE,Electrical Distribution,TRN-B,92.13,LOW,Continue routine monitoring,7,1,4,2026-04-04,High,Medium,2026-05-28,0,Yes,Current,External,Yes
+A-045,Fan 045,Fan,MEDIUM,IN_SERVICE,Electrical Distribution,TRN-B,94.42,LOW,Continue routine monitoring,3,0,1,2025-09-05,Medium,Medium,2026-02-04,1,No,Pending,Internal,No
+A-046,Compressor 046,Compressor,MEDIUM,MONITOR,Electrical Distribution,TRN-B,94.43,LOW,Continue routine monitoring,2,1,2,2026-07-15,Medium,High,2026-02-20,2,No,Overdue,Internal,No
+A-047,Transformer 047,Transformer,LOW,IN_SERVICE,Electrical Distribution,TRN-B,92.8,LOW,Continue routine monitoring,2,0,2,2026-04-13,Low,Low,2026-04-24,0,No,Current,Restricted,No
+A-048,Filter 048,Filter,LOW,IN_SERVICE,Electrical Distribution,TRN-B,95.11,LOW,Continue routine monitoring,8,0,0,,Low,Medium,2026-04-23,1,Yes,Pending,Internal,No
+A-049,Pump 049,Pump,LOW,IN_SERVICE,Ventilation,TRN-B,95.48,LOW,Continue routine monitoring,4,1,0,,Low,High,2025-11-30,1,Yes,Pending,External,No
+A-050,Motor 050,Motor,HIGH,IN_SERVICE,Ventilation,TRN-B,95.63,LOW,Continue routine monitoring,3,0,0,,High,High,2026-04-13,1,Yes,Pending,Internal,Yes
+A-051,Valve 051,Valve,MEDIUM,IN_SERVICE,Ventilation,TRN-B,94.43,LOW,Continue routine monitoring,5,1,1,2025-10-08,Medium,High,2026-05-30,1,Yes,Overdue,Internal,No
+A-052,Heat Exchanger 052,Heat Exchanger,HIGH,IN_SERVICE,Ventilation,TRN-B,95.83,LOW,Continue routine monitoring,2,1,3,2026-05-22,High,Medium,2026-03-29,1,Yes,Pending,Internal,No
+A-053,Fan 053,Fan,MEDIUM,IN_SERVICE,Ventilation,TRN-B,93.45,LOW,Continue routine monitoring,3,0,1,2026-02-17,Medium,High,2026-02-28,1,Yes,Pending,Internal,Yes
+A-054,Compressor 054,Compressor,LOW,IN_SERVICE,Ventilation,TRN-B,93.28,LOW,Continue routine monitoring,6,2,1,2025-11-15,Low,Low,2026-04-21,0,Yes,Current,Internal,No
+A-055,Transformer 055,Transformer,MEDIUM,IN_SERVICE,Ventilation,TRN-B,92.83,LOW,Continue routine monitoring,4,4,1,2026-05-18,Medium,High,2025-12-18,2,Yes,Overdue,Restricted,No
+A-056,Filter 056,Filter,MEDIUM,MONITOR,Ventilation,TRN-B,95.01,LOW,Continue routine monitoring,2,0,2,2026-07-28,Medium,Low,2026-06-08,0,No,Current,Internal,No
+A-057,Pump 057,Pump,MEDIUM,MONITOR,Water Treatment,TRN-B,95.45,LOW,Continue routine monitoring,6,0,1,2026-06-30,Medium,High,2025-12-27,2,No,Overdue,Restricted,No
+A-058,Motor 058,Motor,HIGH,IN_SERVICE,Water Treatment,TRN-B,94.17,LOW,Continue routine monitoring,3,1,1,2026-08-23,High,High,2026-04-09,1,No,Overdue,Internal,Yes
+A-059,Valve 059,Valve,LOW,IN_SERVICE,Water Treatment,TRN-B,93.78,LOW,Continue routine monitoring,7,1,0,,Low,Medium,2026-03-14,0,Yes,Current,Internal,Yes
+A-060,Heat Exchanger 060,Heat Exchanger,LOW,MONITOR,Water Treatment,TRN-B,95.81,LOW,Continue routine monitoring,5,1,3,2025-11-07,Low,Low,2026-06-18,0,Yes,Current,Internal,No
+A-061,Fan 061,Fan,MEDIUM,IN_SERVICE,Water Treatment,TRN-B,95.34,LOW,Continue routine monitoring,4,1,1,2025-12-16,Medium,Low,2025-10-12,0,No,Current,Internal,No
+A-062,Compressor 062,Compressor,HIGH,IN_SERVICE,Water Treatment,TRN-B,95.97,LOW,Continue routine monitoring,4,0,1,2025-09-15,High,Medium,2026-07-21,1,Yes,Pending,Internal,Yes
+A-063,Transformer 063,Transformer,HIGH,MAINTENANCE,Water Treatment,TRN-B,92.8,LOW,Continue routine monitoring,4,1,2,2026-06-24,High,High,2026-05-21,3,Yes,Overdue,Internal,Yes
+A-064,Filter 064,Filter,MEDIUM,IN_SERVICE,Water Treatment,TRN-B,92.05,LOW,Continue routine monitoring,4,1,3,2026-05-03,Medium,Low,2026-05-16,0,Yes,Current,Internal,No
+A-065,Pump 065,Pump,HIGH,IN_SERVICE,Cooling Water,TRN-C,93.37,LOW,Continue routine monitoring,5,2,1,2026-08-07,Critical,High,2026-07-01,2,Yes,Overdue,Restricted,Yes
+A-066,Motor 066,Motor,MEDIUM,IN_SERVICE,Cooling Water,TRN-C,94.43,LOW,Continue routine monitoring,3,2,1,2026-04-10,Medium,Low,2026-06-08,0,No,Current,Internal,No
+A-067,Valve 067,Valve,MEDIUM,IN_SERVICE,Cooling Water,TRN-C,93.87,LOW,Continue routine monitoring,4,1,1,2026-03-24,Medium,High,2026-02-24,1,Yes,Overdue,Internal,No
+A-068,Heat Exchanger 068,Heat Exchanger,LOW,IN_SERVICE,Cooling Water,TRN-C,92.43,LOW,Continue routine monitoring,5,2,2,2026-01-02,Low,Low,2025-11-24,0,Yes,Current,Internal,No
+A-069,Fan 069,Fan,LOW,IN_SERVICE,Cooling Water,TRN-C,93.73,LOW,Continue routine monitoring,1,0,1,2025-09-02,Low,High,2026-02-06,1,Yes,Overdue,Internal,No
+A-070,Compressor 070,Compressor,HIGH,IN_SERVICE,Cooling Water,TRN-C,92.16,LOW,Continue routine monitoring,2,1,0,,Critical,Medium,2026-06-14,1,No,Overdue,Internal,No
+A-071,Transformer 071,Transformer,LOW,IN_SERVICE,Cooling Water,TRN-C,93.93,LOW,Continue routine monitoring,3,0,2,2026-04-16,Low,Medium,2026-05-06,2,No,Overdue,Internal,No
+A-072,Filter 072,Filter,LOW,IN_SERVICE,Cooling Water,TRN-C,94.33,LOW,Continue routine monitoring,5,2,0,,Low,Low,2025-09-16,0,No,Current,Internal,No
+A-073,Pump 073,Pump,MEDIUM,IN_SERVICE,Electrical Distribution,TRN-C,94.62,LOW,Continue routine monitoring,8,1,1,2026-07-08,Medium,High,2025-11-28,1,Yes,Overdue,Internal,No
+A-074,Motor 074,Motor,MEDIUM,IN_SERVICE,Electrical Distribution,TRN-C,92.97,LOW,Continue routine monitoring,4,1,3,2026-06-03,Medium,Low,2025-11-02,0,No,Current,Internal,No
+A-075,Valve 075,Valve,MEDIUM,IN_SERVICE,Electrical Distribution,TRN-C,93.91,LOW,Continue routine monitoring,7,1,1,2026-03-02,Medium,Medium,2025-11-18,1,No,Overdue,Internal,No
+A-076,Heat Exchanger 076,Heat Exchanger,MEDIUM,IN_SERVICE,Electrical Distribution,TRN-C,93.23,LOW,Continue routine monitoring,4,2,3,2026-04-15,Medium,Low,2026-06-21,0,Yes,Current,Internal,No
+A-077,Fan 077,Fan,MEDIUM,IN_SERVICE,Electrical Distribution,TRN-C,95.24,LOW,Continue routine monitoring,4,1,4,2026-02-10,Medium,High,2026-07-20,1,No,Overdue,Restricted,No
+A-078,Compressor 078,Compressor,MEDIUM,IN_SERVICE,Electrical Distribution,TRN-C,94.0,LOW,Continue routine monitoring,4,1,1,2026-07-24,Medium,High,2025-10-28,2,Yes,Pending,Restricted,No
+A-079,Transformer 079,Transformer,MEDIUM,IN_SERVICE,Electrical Distribution,TRN-C,95.8,LOW,Continue routine monitoring,4,1,3,2026-06-06,Medium,High,2026-06-08,1,Yes,Pending,Internal,Yes
+A-080,Filter 080,Filter,LOW,IN_SERVICE,Electrical Distribution,TRN-C,93.79,LOW,Continue routine monitoring,3,0,1,2026-06-09,Low,High,2026-02-02,1,No,Pending,External,No
+A-081,Pump 081,Pump,MEDIUM,IN_SERVICE,Ventilation,TRN-C,94.84,LOW,Continue routine monitoring,3,0,4,2026-07-31,Medium,Medium,2026-04-06,2,No,Pending,Restricted,No
+A-082,Motor 082,Motor,HIGH,IN_SERVICE,Ventilation,TRN-C,94.61,LOW,Continue routine monitoring,7,2,2,2026-03-10,High,Low,2026-05-28,0,Yes,Current,Internal,No
+A-083,Valve 083,Valve,MEDIUM,IN_SERVICE,Ventilation,TRN-C,93.85,LOW,Continue routine monitoring,8,2,0,,Medium,Low,2026-04-12,0,No,Current,Internal,No
+A-084,Heat Exchanger 084,Heat Exchanger,LOW,IN_SERVICE,Ventilation,TRN-C,94.49,LOW,Continue routine monitoring,6,1,2,2026-08-20,Low,Low,2025-10-05,0,No,Current,Internal,No
+A-085,Fan 085,Fan,MEDIUM,IN_SERVICE,Ventilation,TRN-C,92.06,LOW,Continue routine monitoring,3,1,2,2026-07-05,Medium,Low,2025-11-17,0,No,Current,Internal,No
+A-086,Compressor 086,Compressor,HIGH,IN_SERVICE,Ventilation,TRN-C,94.85,LOW,Continue routine monitoring,3,0,2,2025-12-30,High,Low,2026-03-03,0,No,Current,Restricted,No
+A-087,Transformer 087,Transformer,MEDIUM,MAINTENANCE,Ventilation,TRN-C,94.67,LOW,Continue routine monitoring,2,0,3,2026-03-05,Medium,High,2026-04-09,2,No,Overdue,Internal,Yes
+A-088,Filter 088,Filter,MEDIUM,IN_SERVICE,Ventilation,TRN-C,95.02,LOW,Continue routine monitoring,10,2,3,2026-04-10,Medium,Medium,2026-04-04,1,No,Overdue,Internal,No
+A-089,Pump 089,Pump,HIGH,IN_SERVICE,Water Treatment,TRN-C,93.82,LOW,Continue routine monitoring,5,0,1,2026-01-26,High,Medium,2026-05-29,1,No,Pending,Internal,No
+A-090,Motor 090,Motor,MEDIUM,IN_SERVICE,Water Treatment,TRN-C,93.85,LOW,Continue routine monitoring,7,2,2,2026-06-27,Medium,Low,2025-10-25,0,Yes,Current,Internal,No
+A-091,Valve 091,Valve,HIGH,IN_SERVICE,Water Treatment,TRN-C,94.49,LOW,Continue routine monitoring,6,1,2,2026-04-04,High,Low,2026-06-28,0,Yes,Current,Internal,No
+A-092,Heat Exchanger 092,Heat Exchanger,HIGH,IN_SERVICE,Water Treatment,TRN-C,94.62,LOW,Continue routine monitoring,4,0,1,2025-10-25,High,Low,2026-04-25,0,Yes,Current,Internal,No
+A-093,Fan 093,Fan,MEDIUM,IN_SERVICE,Water Treatment,TRN-C,94.05,LOW,Continue routine monitoring,7,1,1,2026-02-03,Medium,Medium,2026-05-30,1,Yes,Pending,Internal,No
+A-094,Compressor 094,Compressor,HIGH,IN_SERVICE,Water Treatment,TRN-C,92.15,LOW,Continue routine monitoring,7,1,1,2025-09-16,High,High,2026-04-07,2,Yes,Pending,Restricted,Yes
+A-095,Transformer 095,Transformer,MEDIUM,IN_SERVICE,Water Treatment,TRN-C,93.7,LOW,Continue routine monitoring,3,1,0,,Medium,Low,2026-06-11,0,No,Current,Internal,No
+A-096,Filter 096,Filter,MEDIUM,IN_SERVICE,Water Treatment,TRN-C,95.92,LOW,Continue routine monitoring,5,3,0,,Medium,Low,2025-10-09,0,No,Current,Internal,No
+A-097,Pump 097,Pump,HIGH,IN_SERVICE,Cooling Water,TRN-D,93.36,LOW,Continue routine monitoring,6,2,3,2026-04-01,Critical,Medium,2026-06-22,1,No,Overdue,Internal,No
+A-098,Motor 098,Motor,HIGH,IN_SERVICE,Cooling Water,TRN-D,92.8,LOW,Continue routine monitoring,4,0,0,,Critical,High,2026-06-17,1,No,Overdue,Restricted,No
+A-099,Valve 099,Valve,MEDIUM,IN_SERVICE,Cooling Water,TRN-D,93.75,LOW,Continue routine monitoring,3,2,1,2025-09-24,Medium,Medium,2025-11-05,0,Yes,Current,Restricted,No
+A-100,Heat Exchanger 100,Heat Exchanger,MEDIUM,MONITOR,Cooling Water,TRN-D,92.77,LOW,Continue routine monitoring,7,1,0,,Medium,Medium,2026-04-07,0,Yes,Current,Internal,Yes
+A-101,Fan 101,Fan,LOW,IN_SERVICE,Cooling Water,TRN-D,93.41,LOW,Continue routine monitoring,2,1,2,2026-04-07,Low,Low,2026-02-06,0,No,Current,Internal,No
+A-102,Compressor 102,Compressor,HIGH,IN_SERVICE,Cooling Water,TRN-D,94.6,LOW,Continue routine monitoring,1,0,1,2026-03-10,Critical,Medium,2026-05-13,2,No,Pending,Internal,No
+A-103,Transformer 103,Transformer,MEDIUM,IN_SERVICE,Cooling Water,TRN-D,95.73,LOW,Continue routine monitoring,5,1,1,2025-11-13,Medium,Medium,2026-06-16,0,Yes,Current,Restricted,Yes
+A-104,Filter 104,Filter,LOW,IN_SERVICE,Cooling Water,TRN-D,94.69,LOW,Continue routine monitoring,6,6,0,,Low,High,2025-12-07,1,No,Overdue,Internal,No
+A-105,Pump 105,Pump,MEDIUM,IN_SERVICE,Electrical Distribution,TRN-D,94.37,LOW,Continue routine monitoring,4,2,0,,Medium,High,2026-05-24,1,Yes,Overdue,Internal,No
+A-106,Motor 106,Motor,MEDIUM,IN_SERVICE,Electrical Distribution,TRN-D,92.16,LOW,Continue routine monitoring,7,1,1,2026-03-05,Medium,Medium,2026-02-25,0,No,Current,External,No
+A-107,Valve 107,Valve,MEDIUM,IN_SERVICE,Electrical Distribution,TRN-D,95.05,LOW,Continue routine monitoring,7,3,0,,Medium,Low,2026-05-26,0,Yes,Current,Internal,No
+A-108,Heat Exchanger 108,Heat Exchanger,MEDIUM,IN_SERVICE,Electrical Distribution,TRN-D,94.18,LOW,Continue routine monitoring,4,1,1,2026-01-02,Medium,Low,2025-11-11,0,Yes,Current,Internal,No
+A-109,Fan 109,Fan,HIGH,IN_SERVICE,Electrical Distribution,TRN-D,95.36,LOW,Continue routine monitoring,8,3,1,2026-02-17,High,High,2026-05-21,2,No,Overdue,Restricted,No
+A-110,Compressor 110,Compressor,HIGH,IN_SERVICE,Electrical Distribution,TRN-D,95.11,LOW,Continue routine monitoring,7,1,3,2026-06-15,Critical,High,2026-05-07,2,No,Overdue,External,No
+A-111,Transformer 111,Transformer,MEDIUM,IN_SERVICE,Electrical Distribution,TRN-D,95.77,LOW,Continue routine monitoring,3,3,2,2026-07-13,Medium,Low,2025-10-02,0,Yes,Current,Internal,No
+A-112,Filter 112,Filter,MEDIUM,IN_SERVICE,Electrical Distribution,TRN-D,92.69,LOW,Continue routine monitoring,7,3,2,2026-02-10,Medium,High,2025-11-14,2,Yes,Pending,External,No
+A-113,Pump 113,Pump,MEDIUM,IN_SERVICE,Ventilation,TRN-D,93.55,LOW,Continue routine monitoring,5,3,4,2026-07-24,Medium,High,2026-07-24,2,Yes,Overdue,Internal,No
+A-114,Motor 114,Motor,MEDIUM,MONITOR,Ventilation,TRN-D,95.56,LOW,Continue routine monitoring,1,1,4,2026-07-14,Medium,High,2025-12-17,1,No,Overdue,Internal,No
+A-115,Valve 115,Valve,HIGH,IN_SERVICE,Ventilation,TRN-D,93.47,LOW,Continue routine monitoring,5,3,1,2026-02-07,High,Medium,2026-07-16,1,Yes,Pending,Internal,No
+A-116,Heat Exchanger 116,Heat Exchanger,MEDIUM,IN_SERVICE,Ventilation,TRN-D,92.81,LOW,Continue routine monitoring,6,1,2,2025-12-19,Medium,Medium,2026-03-15,1,No,Pending,Internal,Yes
+A-117,Fan 117,Fan,MEDIUM,IN_SERVICE,Ventilation,TRN-D,92.06,LOW,Continue routine monitoring,5,2,2,2026-05-11,Medium,Low,2026-04-11,0,No,Current,Internal,No
+A-118,Compressor 118,Compressor,LOW,IN_SERVICE,Ventilation,TRN-D,92.23,LOW,Continue routine monitoring,4,1,2,2026-07-29,Low,Medium,2026-03-01,0,Yes,Current,Internal,Yes
+A-119,Transformer 119,Transformer,LOW,IN_SERVICE,Ventilation,TRN-D,94.97,LOW,Continue routine monitoring,4,1,0,,Low,Medium,2025-11-18,0,No,Current,Restricted,Yes
+A-120,Filter 120,Filter,MEDIUM,IN_SERVICE,Ventilation,TRN-D,93.64,LOW,Continue routine monitoring,7,3,2,2026-03-04,Medium,Low,2026-03-10,0,No,Current,Internal,No
+A-121,Pump 121,Pump,HIGH,IN_SERVICE,Water Treatment,TRN-D,93.77,LOW,Continue routine monitoring,4,1,1,2025-12-02,High,High,2026-05-30,2,Yes,Overdue,Restricted,No
+A-122,Motor 122,Motor,HIGH,IN_SERVICE,Water Treatment,TRN-D,94.42,LOW,Continue routine monitoring,6,0,3,2026-03-10,High,High,2026-02-28,2,No,Overdue,Restricted,No
+A-123,Valve 123,Valve,LOW,IN_SERVICE,Water Treatment,TRN-D,95.93,LOW,Continue routine monitoring,5,0,1,2025-09-06,Low,Low,2026-04-17,0,No,Current,Internal,No
+A-124,Heat Exchanger 124,Heat Exchanger,LOW,IN_SERVICE,Water Treatment,TRN-D,95.42,LOW,Continue routine monitoring,5,1,2,2026-02-17,Low,High,2025-11-06,1,No,Overdue,Internal,No
+A-125,Fan 125,Fan,MEDIUM,MONITOR,Water Treatment,TRN-D,92.69,LOW,Continue routine monitoring,5,2,0,,Medium,High,2025-10-12,1,Yes,Overdue,Internal,No
+A-126,Compressor 126,Compressor,LOW,IN_SERVICE,Water Treatment,TRN-D,93.33,LOW,Continue routine monitoring,7,1,1,2026-01-29,Low,High,2025-08-10,1,No,Overdue,Internal,No
+A-127,Transformer 127,Transformer,MEDIUM,MONITOR,Water Treatment,TRN-D,92.75,LOW,Continue routine monitoring,5,2,0,,Medium,Low,2026-04-02,0,No,Current,Internal,No
+A-128,Filter 128,Filter,HIGH,IN_SERVICE,Water Treatment,TRN-D,94.17,LOW,Continue routine monitoring,6,2,0,,High,High,2026-05-10,2,Yes,Pending,Internal,No

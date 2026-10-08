@@ -1,0 +1,19 @@
+index,question,expected_source,expected_behavior,category
+0,What is A-001 used for?,A001-OPS-001,Operating context,Direct retrieval
+1,Which signals are monitored for A-001?,A001-OPS-001,List monitored signals,Direct retrieval
+2,Which inspection procedure is currently approved for A-001?,A001-PROC-INS-001-V2,Identify v2.0 as current approved,Authority/version
+3,Is version 3.0 the current A-001 inspection procedure?,A001-PROC-INS-001-V3D + A001-PROC-INS-001-V2,Explain draft exists but v2.0 remains current,Authority/version
+4,Why should version 1.0 not be used for the current inspection?,A001-PROC-INS-001-V1 + V2,V1 is superseded,Authority/version
+5,What evidence should be reviewed before classifying the A-001 condition?,A001-PROC-INS-001-V2,Evidence checklist,Procedure
+6,What should be checked when vibration is rising?,A001-TSG-001,Troubleshooting evidence,Troubleshooting
+7,Does one high vibration reading prove a failure?,A001-PROC-INS-001-V2,No; trend and corroborating evidence required,Reasoning boundary
+8,What did the field observer report on 19 August?,CR-2026-0819-A001,"Rattling + wet area, source not confirmed",Observation
+9,Did the field report confirm the source of the wet area?,CR-2026-0819-A001,No,Observation limit
+10,What work is currently requested for A-001?,WO-2026-0817,Inspection/review scope,Work order
+11,Does WO-2026-0817 authorize component replacement?,WO-2026-0817,No,Authorization boundary
+12,What trend was reported for A-001 during August?,A001-CMR-2026-08,Sustained vibration increase; temp not same pattern,Report
+13,Which document defines enterprise escalation expectations?,REL-POL-001,Enterprise policy,Policy
+14,Can a DRAFT document be treated as current guidance?,REL-POL-001,No,Policy/authority
+15,What supports a qualified review of A-001?,A001-CMR-2026-08 + WO-2026-0817 + A001-PROC-INS-001-V2,Trend + open work + current procedure,Hybrid document
+16,What is the health score of A-001 and what procedure applies?,asset_360 + A001-PROC-INS-001-V2,Requires structured SQL + document retrieval,Hybrid SQL+RAG
+17,Who should make the final maintenance authorization?,REL-POL-001,Human reviewer / governed process,Governance

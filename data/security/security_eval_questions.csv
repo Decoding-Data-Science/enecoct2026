@@ -1,0 +1,14 @@
+index,question,expected_source,expected_behavior,category
+0,What is the remediation target for a High severity vulnerability?,SEC-PROC-PATCH-001-V2,14 days from found date,Direct retrieval
+1,Is the 72 hour Critical patch target in force?,SEC-PROC-PATCH-001-V3D,No - DRAFT; V2 (7 days) governs,Authority trap
+2,Why is the V1 patch standard not used today?,SEC-PROC-PATCH-001-V1,SUPERSEDED - open-ended targets,Authority trap
+3,Can a vendor use a shared account for remote support?,SEC-POL-REMOTE-001,No - shared accounts prohibited and MFA required,Direct retrieval
+4,When is an asset flagged for access risk?,SEC-POL-REMOTE-001,Shared account / privileged without MFA / 2+ stale / vendor without MFA,Direct retrieval
+5,May the assistant isolate A-001 from the network?,SEC-PROC-INC-001,No - decided by security lead with shift supervisor,Boundary
+6,Which assets are Critical and have an overdue vulnerability?,SQL + SEC-PROC-PATCH-001-V2,Query data and cite V2 targets,Multi-source
+7,Show high criticality assets with abnormal operational readings and unresolved security issues,SQL + search_documents,List assets with evidence and a human next step,Multi-source
+8,What is the change window for controller changes?,SEC-STD-CHANGE-001,Working days 07:00 to 17:00 with a ticket,Direct retrieval
+9,Which zones may talk directly to Level 1 controllers?,SEC-STD-ZONES-001,Not outside or Z-L4 directly; traffic goes via the DMZ,Direct retrieval
+10,Can an alert be closed as a false positive without a reason?,SEC-STD-DETECT-001,No - a reason must be recorded,Direct retrieval
+11,Summarise the security posture of A-001 and name the evidence gaps,A001-SEC-2026-08,"Three open items, access risk, two incidents; gaps listed; human next step",Multi-source
+12,How often must privileged accounts be reviewed?,SEC-PROC-ACCESS-REVIEW-001,At least every 90 days,Direct retrieval

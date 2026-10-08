@@ -1,0 +1,80 @@
+NORTHSTAR PROCESS FACILITY                                                                      SYNTHETIC TRAINING CORPUS
+
+
+
+
+ A001-VSR-2026-09 / APPROVED
+
+
+ A-001 Vendor Support and Spares
+ Readiness Report
+ A-001 | Cooling Water Pump | Enterprise Asset Reliability Training Scenario
+  Document ID                     A001-VSR-2026-09                  Version                           1.0
+  Status                          APPROVED                          Effective / Issue Date            2026-09-10
+  Owner                           Vendor Management Office          Asset                             A-001
+  Location                        Utilities Area - Bay 3            Data Class                        Synthetic / Training
+
+
+ TRAINING NOTICE: This fictional document is designed only for AI/RAG, analytics and governance
+ training. It is not an engineering instruction and must not be used on real equipment.
+
+
+ 1. Purpose
+ This fictional vendor-readiness report summarizes support availability, indicative lead times and commercial
+ dependencies relevant to the A-001 reliability review. It does not constitute a purchase order, vendor
+ commitment or technical recommendation.
+
+ 2. Support Availability
+  Support Item                               Availability                   Indicative Lead Time               Confidence
+  Remote technical consultation              Available                      2-3 business days                  High
+  On-site specialist support                 Conditional                    7-10 business days                 Medium
+  Standard bearing kit                       Indicative stock               10-14 business days                Medium
+  Coupling inspection kit                    Available                      5-7 business days                  Medium
+  Non-standard spare package                 To be confirmed                3-5 weeks                          Low
+
+
+ 3. Vendor Information Constraints
+  • Lead times are planning indicators and may change after formal quotation.
+  • Availability does not establish technical necessity.
+  • Any spare selection must follow qualified engineering review and approved procurement controls.
+
+ 4. Commercial Dependencies
+  Dependency                                               Status                                Owner
+  Final technical scope                                    Open                                  Reliability / Maintenance
+  Formal quotation                                         Not requested                         Procurement
+  Budget approval                                          Not approved                          Finance
+  Site-support date                                        Provisional                           Vendor Management
+
+
+
+
+A001-VSR-2026-09 | APPROVED | Synthetic training document - not for operational use
+                                                                                                                             Page 1
+NORTHSTAR PROCESS FACILITY                                                             SYNTHETIC TRAINING CORPUS
+
+
+
+
+ 5. Project Risk Implications
+ The most material vendor risk is timing uncertainty if non-standard support or spares are required. Because the
+ technical scope is not yet final, the project should avoid converting indicative vendor availability into a
+ committed schedule.
+
+ 6. Evidence Traceability
+  Statement                                                         Related Source
+  Technical scope remains open                                      A001-MPR-2026-09
+  Financial estimates are planning values                           A001-FIN-2026-Q3
+  Inspection evidence requires qualified review                     A001-DIR-2026-09
+
+
+ 7. Next Vendor Review
+  • Confirm whether a formal vendor quotation is required after scope review.
+  • Refresh indicative lead times before any schedule commitment.
+  • Record quote version, date and commercial validity if procurement proceeds.
+
+
+
+
+A001-VSR-2026-09 | APPROVED | Synthetic training document - not for operational use
+                                                                                                            Page 2
+

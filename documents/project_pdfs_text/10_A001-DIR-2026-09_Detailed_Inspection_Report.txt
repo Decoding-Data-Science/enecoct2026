@@ -1,0 +1,88 @@
+NORTHSTAR PROCESS FACILITY                                                                 SYNTHETIC TRAINING CORPUS
+
+
+
+
+ A001-DIR-2026-09 / APPROVED
+
+
+ A-001 Detailed Inspection Report -
+ September 2026
+ A-001 | Cooling Water Pump | Enterprise Asset Reliability Training Scenario
+  Document ID                    A001-DIR-2026-09                Version                       1.0
+  Status                         APPROVED                        Effective / Issue Date        2026-09-05
+  Owner                          Mechanical Inspection Team      Asset                         A-001
+  Location                       Utilities Area - Bay 3          Data Class                    Synthetic / Training
+
+
+ TRAINING NOTICE: This fictional document is designed only for AI/RAG, analytics and governance
+ training. It is not an engineering instruction and must not be used on real equipment.
+
+
+ 1. Inspection Objective
+ This training inspection was initiated after the August condition-monitoring report identified a sustained
+ vibration increase and the inspection work order WO-2026-0817 remained open. The objective was to record
+ observable condition evidence and identify information requiring qualified reliability review.
+
+ 2. Inspection Scope
+  Area Reviewed                  Training Observation                                            Evidence Status
+  External condition             No visible leakage recorded during the training walkthrough     Observed
+  Coupling / alignment area      Minor witness-mark offset noted; no root cause assigned         Observed
+  Bearing housing                Surface temperature reading remained within the recent          Observed
+                                 training range
+  Vibration indication           Elevated relative to the earlier-month baseline                 Corroborated
+  Work history                   WO-2026-0817 still open at time of review                       Structured record
+
+
+ 3. Measurement Snapshot
+  Timestamp                           Vibration RMS (mm/s)            Bearing Temp (C)           Comment
+  2026-09-03 09:00                    6.2                             70                         Training inspection sample
+  2026-09-03 09:30                    6.3                             71                         Repeat reading
+  2026-09-03 10:00                    6.1                             70                         Stable within inspection
+                                                                                                 window
+
+
+ 4. Inspection Findings
+  • The vibration indication remains above the earlier August baseline used in A001-CMR-2026-08.
+  • The limited inspection evidence does not establish a confirmed failure mechanism.
+  • The coupling witness-mark observation is relevant context but requires qualified interpretation.
+  • Open maintenance work should be reviewed before any condition conclusion is finalized.
+
+
+A001-DIR-2026-09 | APPROVED | Synthetic training document - not for operational use
+                                                                                                                       Page 1
+NORTHSTAR PROCESS FACILITY                                                                SYNTHETIC TRAINING CORPUS
+
+
+
+
+ 5. Risk Interpretation
+ The combined inspection evidence supports continued review under the enterprise reliability policy. This report
+ does not authorize repair, shutdown or maintenance scope. Any action must be based on the current approved
+ procedure and qualified human review.
+
+ 6. Evidence Traceability
+  Claim                                                          Supporting Source
+  Vibration remains elevated relative to earlier baseline        Inspection measurements / A001-CMR-2026-08
+  An inspection work order remains open                          WO-2026-0817
+  Current inspection guidance is version 2.0                     A001-PROC-INS-001-V2
+  No confirmed failure mode is established                       This report / condition-monitoring report
+
+
+ 7. Open Questions
+  • Do the full-resolution sensor readings show the same pattern as the sampled inspection values?
+  • Has any maintenance activity occurred since the August field condition report?
+  • Does the coupling observation persist after the next approved inspection cycle?
+
+ 8. Reviewer Sign-off
+  Role                                                          Status
+  Mechanical Inspector                                          Report issued
+  Reliability Reviewer                                          Pending review
+  Maintenance Planner                                           Pending work-order review
+
+
+
+
+A001-DIR-2026-09 | APPROVED | Synthetic training document - not for operational use
+                                                                                                              Page 2
+
