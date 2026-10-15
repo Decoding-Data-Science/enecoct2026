@@ -1,5 +1,5 @@
 # ENEC 2026 (October): AI for Coders & Software Engineers
-website : https://github.com/Decoding-Data-Science/enecoct2026
+website : https://decoding-data-science.github.io/enecoct2026/
 **Four days, one plant, one common data set.** Day 1 uses **Microsoft Copilot**. Days 2 to 4 use **Python in Google Colab, OpenAI and LlamaIndex**, with GitHub for the course files. All data and documents are **synthetic training material**. Nothing here is an engineering diagnosis or a maintenance authorisation.
 
 Instructor: **Mohammad Arshad Ahmed**
